@@ -291,7 +291,7 @@
         <div class="container">
             <div class="privacy-policy">
                 <h1>Privacy Policy</h1>
-                <p>Your privacy is important to us. It is Moonvine's policy to respect your privacy regarding any 
+                <p>Your privacy is important to us. It is grand auto tech's policy to respect your privacy regarding any 
                 information we may collect from you across our website, <a href="https://grandautotech.lk">https://grandautotech.lk</a>, 
                 and other sites we own and operate.</p>
                 
