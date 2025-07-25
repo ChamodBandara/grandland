@@ -178,17 +178,21 @@
                                                 <a href="/">Home</a>
                                             </li>
                                             <li>
-                                                <a href="#about">About Us</a>
+
+                                                <a href="{{ url('/#about') }}">About Us</a>
                                             </li>
                                             <li>
-                                                <a href="#services">Services</a>
+
+                                                <a href="{{ url('/#services') }}">Services</a>
                                             </li>
 
                                             <li>
-                                                <a href="#features">Features</a>
+
+                                                <a href="{{ url('/#features') }}">Features</a>
                                             </li>
                                             <li>
-                                                <a href="#testimonials">Testimonials</a>
+
+                                                <a href="{{ url('/#testimonials') }}">Testimonials</a>
                                             </li>
 
                                             <li>
@@ -263,7 +267,7 @@
             <div class="container">
                 <div class="contact-three__inner">
                     <h3 class="contact-three__title">Appiontment Now</h3>
-                    <form class="contact-form-validated contact-three__form" action="assets/inc/sendemail.php"
+                    <form class="contact-form-validated contact-three__form" action=""
                         method="post" novalidate="novalidate">
                         <div class="row">
                             <div class="col-xl-6 col-lg-6">
@@ -473,7 +477,7 @@ Info@grandautotech.lk">
     </div>
     <!-- /.page-wrapper -->
 
-   <div class="mobile-nav__wrapper">
+    <div class="mobile-nav__wrapper">
         <div class="mobile-nav__overlay mobile-nav__toggler"></div>
         <!-- /.mobile-nav__overlay -->
         <div class="mobile-nav__content">
@@ -482,10 +486,10 @@ Info@grandautotech.lk">
             <div class="logo-box">
                 {{-- <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-1.png"
                         width="135" alt="" /></a> --}}
-                        <p>
-                                            <span class="white-text">GRAND AUTO</span>
-                                            <span class="red-text">TECH</span>
-                                        </p>
+                <p>
+                    <span class="white-text">GRAND AUTO</span>
+                    <span class="red-text">TECH</span>
+                </p>
 
             </div>
             <!-- /.logo-box -->
@@ -563,6 +567,7 @@ Info@grandautotech.lk">
 
     <!-- template js -->
     <script src="assets/js/script.js"></script>
+     <script src="assets/js/whatsapp.js"></script>
 </body>
 
 </html>

@@ -205,23 +205,27 @@
                                 <div class="main-menu-three__right">
                                     <div class="main-menu-three__main-menu-box">
                                         <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
-                                        <ul class="main-menu__list">
+                                         <ul class="main-menu__list">
 
                                             <li>
                                                 <a href="/">Home</a>
                                             </li>
                                             <li>
-                                                <a href="#about">About Us</a>
+
+                                                <a href="{{ url('/#about') }}">About Us</a>
                                             </li>
                                             <li>
-                                                <a href="#services">Services</a>
+
+                                                <a href="{{ url('/#services') }}">Services</a>
                                             </li>
 
                                             <li>
-                                                <a href="#features">Features</a>
+
+                                                <a href="{{ url('/#features') }}">Features</a>
                                             </li>
                                             <li>
-                                                <a href="#testimonials">Testimonials</a>
+
+                                                <a href="{{ url('/#testimonials') }}">Testimonials</a>
                                             </li>
 
                                             <li>
