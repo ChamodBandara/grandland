@@ -152,175 +152,99 @@
     <!-- End sidebar widget content -->
 
     <div class="page-wrapper">
-      <header class="main-header">
-        <div class="main-header__wrapper">
-          <nav class="main-menu">
-            <div class="main-menu__wrapper">
-              <div class="container">
-                <div class="main-menu__wrapper-inner">
-                  <div class="main-menu__left">
-                    <div class="main-header__logo">
-                      <a href="index.html"
-                        ><img src="assets/images/resources/logo-1.png" alt=""
-                      /></a>
-                    </div>
-                  </div>
-                  <div class="main-menu__main-menu-box">
-                    <a href="#" class="mobile-nav__toggler"
-                      ><i class="fa fa-bars"></i
-                    ></a>
-                    <ul class="main-menu__list">
-                      <li class="dropdown">
-                        <a href="index.html">Home </a>
-                        <ul>
-                          <li><a href="index.html">Home One</a></li>
-                          <li><a href="index2.html">Home Two</a></li>
-                          <li><a href="index3.html">Home Three</a></li>
-                          <li><a href="index4.html">Home Four</a></li>
-                          <li><a href="index-dark.html">Home Dark</a></li>
-                          <li class="dropdown">
-                            <a href="#">One Page Styles</a>
-                            <ul>
-                              <li>
-                                <a href="index-one-page.html"
-                                  >One Page Styles One</a
-                                >
-                              </li>
-                              <li>
-                                <a href="index2-one-page.html"
-                                  >One Page Styles Two</a
-                                >
-                              </li>
-                              <li>
-                                <a href="index3-one-page.html"
-                                  >One Page Styles Three</a
-                                >
-                              </li>
-                              <li>
-                                <a href="index4-one-page.html"
-                                  >One Page Styles Four</a
-                                >
-                              </li>
+      <header class="main-header-three">
+            <div class="main-header-three__wrapper">
+                <div class="main-menu-three__top">
+                    <div class="container">
+                        <div class="main-menu-three__top-inner">
+                            <ul class="list-unstyled main-menu-three__contact-list">
+                                <li>
+                                    <div class="icon">
+                                        <i class="icon-pin"></i>
+                                    </div>
+                                    <div class="text">
+                                        <p>No 1/B/2, Horana Road, Kahathuduwa, Polgasowita </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <i class="icon-clock"></i>
+                                    </div>
+                                    <div class="text">
+                                        <p>Mon-Fri: 08:00 AM-05:00 PM</p>
+                                    </div>
+                                </li>
                             </ul>
-                          </li>
-                        </ul>
-                      </li>
-                      <li>
-                        <a href="about.html">About Us</a>
-                      </li>
-                      <li class="dropdown">
-                        <a href="#">Pages</a>
-                        <ul>
-                          <li><a href="team.html">Team</a></li>
-                          <li>
-                            <a href="team-carousel.html">Team Carousel</a>
-                          </li>
-                          <li><a href="team-details.html">Team Details</a></li>
-                          <li><a href="project.html">Projects</a></li>
-                          <li>
-                            <a href="project-details.html">Project Details</a>
-                          </li>
-                          <li><a href="testimonials.html">Testimonials</a></li>
-                          <li>
-                            <a href="testimonial-carousel.html"
-                              >Testimonial Carousel</a
-                            >
-                          </li>
-                          <li><a href="pricing.html">Pricing</a></li>
-                          <li>
-                            <a href="pricing-carousel.html">Pricing Carousel</a>
-                          </li>
-                          <li><a href="faq.html">Faq</a></li>
-                          <li><a href="404.html">404 Error</a></li>
-                        </ul>
-                      </li>
-                      <li class="dropdown">
-                        <a href="#">Services</a>
-                        <ul>
-                          <li><a href="services.html">Services</a></li>
-                          <li>
-                            <a href="easy-drive-maintenance.html"
-                              >Easy Drive Maintenance</a
-                            >
-                          </li>
-                          <li>
-                            <a href="elite-auto-services.html"
-                              >Elite Auto Services</a
-                            >
-                          </li>
-                          <li>
-                            <a href="smooth-ride-vehicle-care.html"
-                              >Smooth Ride Vehicle Care</a
-                            >
-                          </li>
-                          <li>
-                            <a href="careful-car-service-station.html"
-                              >Careful Car Service Station</a
-                            >
-                          </li>
-                          <li>
-                            <a href="auto-pro-mechanic-shop.html"
-                              >Auto Pro Mechanic Shop</a
-                            >
-                          </li>
-                        </ul>
-                      </li>
-                      <li class="dropdown">
-                        <a href="#">Shop</a>
-                        <ul>
-                          <li><a href="products.html">Products</a></li>
-                          <li>
-                            <a href="product-details.html">Product Details</a>
-                          </li>
-                          <li><a href="cart.html">Cart</a></li>
-                          <li><a href="checkout.html">Checkout</a></li>
-                          <li><a href="wishlist.html">Wishlist</a></li>
-                          <li><a href="sign-up.html">Sign Up</a></li>
-                          <li><a href="login.html">Login</a></li>
-                        </ul>
-                      </li>
-                      <li class="dropdown">
-                        <a href="#">Blog</a>
-                        <ul>
-                          <li><a href="blog.html">Blog</a></li>
-                          <li>
-                            <a href="blog-carousel.html">Blog Carousel</a>
-                          </li>
-                          <li><a href="blog-list.html">Blog List</a></li>
-                          <li><a href="blog-details.html">Blog Details</a></li>
-                        </ul>
-                      </li>
-                      <li>
-                        <a href="contact.html">Contact</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <div class="main-menu__right">
-                    <div class="main-menu__social">
-                      <a href="#"><span class="icon-facebook-f"></span></a>
-                      <a href="#"><span class="icon-Vector"></span></a>
-                      <a href="#"><span class="icon-instagram"></span></a>
-                      <a href="#"><span class="icon-pintarest"></span></a>
+                            <div class="main-menu-three__top-right">
+                                <div class="main-menu-three__social">
+                                    <a href="#"><i class="icon-facebook-f"></i></a>
+                                    <a href="#"><i class="icon-instagram"></i></a>
+                                    <a href="#"><i class="icon-Vector"></i></a>
+                                    <a href="#"><i class="icon-linkedin-in-two"></i></a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="main-menu__nav-sidebar-icon">
-                      <a class="navSidebar-button" href="#">
-                        <span class="icon-dots-menu-one"></span>
-                        <span class="icon-dots-menu-two"></span>
-                        <span class="icon-dots-menu-three"></span>
-                      </a>
-                    </div>
-                  </div>
                 </div>
-              </div>
-            </div>
-          </nav>
-        </div>
-      </header>
+                <nav class="main-menu main-menu-three">
+                    <div class="main-menu-three__wrapper">
+                        <div class="container">
+                            <div class="main-menu-three__wrapper-inner">
+                                <div class="main-menu-three__left">
+                                    <div class="main-header-three__logo">
+                                        <a href="index.html"><img src="assets/images/resources/logo-2.png"
+                                                alt="" /></a>
+                                    </div>
+                                </div>
+                                <div class="main-menu-three__right">
+                                    <div class="main-menu-three__main-menu-box">
+                                        <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
+                                        <ul class="main-menu__list">
 
-      <div class="stricky-header stricked-menu main-menu">
-        <div class="sticky-header__content"></div>
-        <!-- /.sticky-header__content -->
-      </div>
+                                            <li>
+                                                <a href="/">Home</a>
+                                            </li>
+                                            <li>
+                                                <a href="#about">About Us</a>
+                                            </li>
+                                            <li>
+                                                <a href="#services">Services</a>
+                                            </li>
+
+                                            <li>
+                                                <a href="#features">Features</a>
+                                            </li>
+                                            <li>
+                                                <a href="#testimonials">Testimonials</a>
+                                            </li>
+
+                                            <li>
+                                                <a href="/contact">Contact Us</a>
+                                            </li>
+
+
+
+                                        </ul>
+                                    </div>
+                                    <div class="main-menu__nav-sidebar-icon">
+                                        <a class="navSidebar-button" href="#">
+                                            <span class="icon-dots-menu-one"></span>
+                                            <span class="icon-dots-menu-two"></span>
+                                            <span class="icon-dots-menu-three"></span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </header>
+
+     <div class="stricky-header stricked-menu main-menu main-menu-three">
+            <div class="sticky-header__content"></div>
+            <!-- /.sticky-header__content -->
+        </div>
       <!-- /.stricky-header -->
 
       <!--Page Header Start-->
@@ -349,12 +273,12 @@
                   />
                 </div>
               </div>
-              <h2>About Us</h2>
+              <h2>Terms and Conditions</h2>
               <div class="thm-breadcrumb__box">
                 <ul class="thm-breadcrumb list-unstyled">
                   <li><a href="index.html">Home</a></li>
                   <li><span class="icon-angle-right"></span></li>
-                  <li>About Us</li>
+                  <li>Terms and Conditions</li>
                 </ul>
               </div>
             </div>
@@ -371,8 +295,8 @@
                 
                 <section>
                     <h2>OVERVIEW</h2>
-                    <p>This website moonvinebeautycare.com is operated by moonvinebeautycare.com Throughout 
-                    the site, the terms "we", "us" and "our" refer to moonvinebeautycare; moonvinebeautycare 
+                    <p>This website grandautotech.lk is operated by grandautotech.lk Throughout 
+                    the site, the terms "we", "us" and "our" refer to grandautotech.lk; grandautotech.lk 
                     offers this website, including all information, tools and services available from this site to you, 
                     the user, conditioned upon your acceptance of all terms, conditions, policies and notices 
                     stated here.</p>
@@ -654,8 +578,8 @@
                 
                 <section>
                     <h2>CONTACT INFORMATION</h2>
-                    <p>Email: <a href="mailto:info@moonvinebeautrycare.com">info@moonvinebeautrycare.com</a></p>
-                    <p>Moonvine Beauty care, Dambulla Rd, Kurunegala, Srilanka</p>
+                    <p>Email: <a href="mailto:Info@grandautotech.lk">Info@grandautotech.lk</a></p>
+                  
                 </section>
             </div>
         </div>
