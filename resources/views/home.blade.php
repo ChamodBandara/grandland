@@ -124,7 +124,7 @@
             <div class="main-header-three__wrapper">
                 <div class="main-menu-three__top">
                     <div class="container">
-                        <div class="main-menu-three__top-inner">
+                        {{-- <div class="main-menu-three__top-inner">
                             <ul class="list-unstyled main-menu-three__contact-list">
                                 <li>
                                     <div class="icon">
@@ -151,7 +151,7 @@
                                     <a href="#"><i class="icon-linkedin-in-two"></i></a>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <nav class="main-menu main-menu-three">
@@ -160,8 +160,14 @@
                             <div class="main-menu-three__wrapper-inner">
                                 <div class="main-menu-three__left">
                                     <div class="main-header-three__logo">
-                                        <a href="index.html"><img src="assets/images/resources/logo-2.png"
-                                                alt="" /></a>
+                                        {{-- <a href="index.html"><img src="assets/images/resources/logo-2.png"
+                                                alt="" /></a> --}}
+                                        <p>
+                                            <span class="black-text">GRAND AUTO</span>
+                                            <span class="red-text">TECH</span>
+                                        </p>
+
+
                                     </div>
                                 </div>
                                 <div class="main-menu-three__right">
@@ -235,8 +241,8 @@
                                     From diagnostics to full repairs, Grand Auto Tech delivers <br /> expert care with
                                     fair
                                     pricing, cutting
-                                    edge systems, and a team that  <br /> treats
-                                   
+                                    edge systems, and a team that <br /> treats
+
                                     every vehicle like their own.
                                 </p>
                                 <div class="main-slider__btn-and-video-box">
@@ -423,11 +429,17 @@
                                 </h2>
                             </div>
                             <p class="about-three__text">
-                               Established in 1998 by Raja Pushpakumara Walpola, our garage has proudly served Kahathuduwa, Polgasowita for over 20 years. Built on trust, skill, and a passion for cars, we’re your go-to spot for reliable repairs, maintenance, and diagnostics. </br></br>
+                                Established in 1998 by Raja Pushpakumara Walpola, our garage has proudly served
+                                Kahathuduwa, Polgasowita for over 20 years. Built on trust, skill, and a passion for
+                                cars, we’re your go-to spot for reliable repairs, maintenance, and diagnostics.
+                                </br></br>
 
-With modern tools and hands-on expertise, Raja and his team ensure every vehicle gets precise, high-quality care. From routine checks to engine repairs, your safety is our priority.</br></br>
+                                With modern tools and hands-on expertise, Raja and his team ensure every vehicle gets
+                                precise, high-quality care. From routine checks to engine repairs, your safety is our
+                                priority.</br></br>
 
-Customer satisfaction drives us—we offer honest advice, fair pricing, and lasting relationships with every client.
+                                Customer satisfaction drives us—we offer honest advice, fair pricing, and lasting
+                                relationships with every client.
                             </p>
 
 
@@ -939,7 +951,7 @@ Customer satisfaction drives us—we offer honest advice, fair pricing, and last
         <!--Sliding Text End-->
 
         <!--Why Choose One Start-->
-        <section class="why-choose-one">
+        <section class="why-choose-one" id="features">
             <div class="container">
                 <h2 class="section-title">Why Choose Grand Auto Tech?</h2>
                 <div class="cards-container">
@@ -985,7 +997,7 @@ Customer satisfaction drives us—we offer honest advice, fair pricing, and last
         <!--Why Choose One End-->
 
         <!--Testimonial Three Start -->
-        <section class="testimonial-three">
+        <section class="testimonial-three" id="testimonials">
             <div class="testimonial-three__inner">
                 <div class="container">
                     <div class="section-title-two text-left sec-title-animation animation-style2">
@@ -1010,13 +1022,14 @@ Customer satisfaction drives us—we offer honest advice, fair pricing, and last
                                         <span class="icon-star"></span>
                                         <span class="icon-star"></span>
                                         <span class="icon-star"></span>
-                                      
-                                     
+
+
                                     </div>
                                 </div>
                                 <p class="testimonial-three__text">
-                                I’ve been bringing my car here for years. Raja and his team always deliver honest, top-quality 
-work at a fair price. Highly recommended!
+                                    I’ve been bringing my car here for years. Raja and his team always deliver honest,
+                                    top-quality
+                                    work at a fair price. Highly recommended!
                                 </p>
                                 <div class="testimonial-three__client-box">
                                     <div class="testimonial-three__client-img">
@@ -1042,12 +1055,13 @@ work at a fair price. Highly recommended!
                                         <span class="icon-star"></span>
                                         <span class="icon-star"></span>
                                         <span class="icon-star"></span>
-                                      
+
                                     </div>
                                 </div>
                                 <p class="testimonial-three__text">
-                                  "Best garage in Polgasowita! Friendly service, quick repairs, and they really know what they’re 
-doing. I wouldn't go anywhere else.
+                                    "Best garage in Polgasowita! Friendly service, quick repairs, and they really know
+                                    what they’re
+                                    doing. I wouldn't go anywhere else.
                                 </p>
                                 <div class="testimonial-three__client-box">
                                     <div class="testimonial-three__client-img">
@@ -1077,8 +1091,9 @@ doing. I wouldn't go anywhere else.
                                     </div>
                                 </div>
                                 <p class="testimonial-three__text">
-                                    My car had an engine issue that others couldn’t fix. Raja’s team found the problem and had it 
-running smoothly in no time!
+                                    My car had an engine issue that others couldn’t fix. Raja’s team found the problem
+                                    and had it
+                                    running smoothly in no time!
                                 </p>
                                 <div class="testimonial-three__client-box">
                                     <div class="testimonial-three__client-img">
@@ -1104,12 +1119,13 @@ running smoothly in no time!
                                         <span class="icon-star"></span>
                                         <span class="icon-star"></span>
                                         <span class="icon-star"></span>
-                                      
+
                                     </div>
                                 </div>
                                 <p class="testimonial-three__text">
-                                    Excellent service with a personal touch. They treat you like family and make sure your 
-vehicle gets the best care.
+                                    Excellent service with a personal touch. They treat you like family and make sure
+                                    your
+                                    vehicle gets the best care.
                                 </p>
                                 <div class="testimonial-three__client-box">
                                     <div class="testimonial-three__client-img">
@@ -1495,8 +1511,8 @@ vehicle gets the best care.
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-1.png"
-                        width="135" alt="" /></a>
+                {{-- <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-1.png"
+                        width="135" alt="" /></a> --}}
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -1514,12 +1530,12 @@ vehicle gets the best care.
             </ul>
             <!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
-                <div class="mobile-nav__social">
+                {{-- <div class="mobile-nav__social">
                     <a href="#" class="fab fa-twitter"></a>
                     <a href="#" class="fab fa-facebook-square"></a>
                     <a href="#" class="fab fa-pinterest-p"></a>
                     <a href="#" class="fab fa-instagram"></a>
-                </div>
+                </div> --}}
                 <!-- /.mobile-nav__social -->
             </div>
             <!-- /.mobile-nav__top -->
@@ -1574,6 +1590,8 @@ vehicle gets the best care.
 
     <!-- template js -->
     <script src="assets/js/script.js"></script>
+     <script src="assets/js/header-nav.js"></script>
+      <script src="assets/js/header.js"></script>
 </body>
 
 </html>
