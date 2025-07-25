@@ -530,10 +530,9 @@ ul {
     color: var(--crank-base);
     border-color: var(--crank-base);
 }
-
 .xs-sidebar-widget {
     position: fixed;
-    left: -100%;
+    right: -100%; /* changed from left:-100% */
     top: 0;
     bottom: 0;
     width: 100%;
@@ -548,6 +547,7 @@ ul {
     visibility: hidden;
     opacity: 0;
 }
+
 
 .xs-sidebar-group.isActive .xs-sidebar-widget {
     opacity: 1;

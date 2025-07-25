@@ -68,7 +68,7 @@
     <!-- /.preloader -->
 
     <!-- Start sidebar widget content -->
-    <div class="xs-sidebar-group info-group info-sidebar">
+    {{-- <div class="xs-sidebar-group info-group info-sidebar">
         <div class="xs-overlay xs-bg-black"></div>
         <div class="xs-sidebar-widget">
             <div class="sidebar-widget-container">
@@ -116,7 +116,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- End sidebar widget content -->
 
     <div class="page-wrapper">
@@ -201,12 +201,17 @@
                                         </ul>
                                     </div>
                                     <div class="main-menu__nav-sidebar-icon">
-                                        <a class="navSidebar-button" href="#">
-                                            <span class="icon-dots-menu-one"></span>
-                                            <span class="icon-dots-menu-two"></span>
-                                            <span class="icon-dots-menu-three"></span>
+                                        <a href="/contact">
+                                            <button
+                                                style="padding: 8px 16px; background-color: black; color: white; border: none; border-radius: 4px; cursor: pointer;"
+                                                onmouseover="this.style.backgroundColor='#333';"
+                                                onmouseout="this.style.backgroundColor='black';">
+                                                Need Help?
+                                            </button>
                                         </a>
+
                                     </div>
+
                                 </div>
                             </div>
                         </div>
@@ -1590,8 +1595,8 @@
 
     <!-- template js -->
     <script src="assets/js/script.js"></script>
-     <script src="assets/js/header-nav.js"></script>
-      <script src="assets/js/header.js"></script>
+    <script src="assets/js/header-nav.js"></script>
+    <script src="assets/js/header.js"></script>
 </body>
 
 </html>
