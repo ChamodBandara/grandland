@@ -235,13 +235,13 @@
                                     From diagnostics to full repairs, Grand Auto Tech delivers <br /> expert care with
                                     fair
                                     pricing, cutting
-                                    edge systems, and a team that treats
-                                    <br />
+                                    edge systems, and a team that  <br /> treats
+                                   
                                     every vehicle like their own.
                                 </p>
                                 <div class="main-slider__btn-and-video-box">
                                     <div class="main-slider__btn-box">
-                                        <a href="contact.html" class="thm-btn">Get Started<span
+                                        <a href="/contact" class="thm-btn">Contact Us<span
                                                 class="icon-arrow-up-right"></span></a>
                                     </div>
                                     {{-- <div class="main-slider__video-link">
@@ -423,24 +423,11 @@
                                 </h2>
                             </div>
                             <p class="about-three__text">
-                                Stablished in 1998 by Raja Pushpakumara Walpola, our garage has proudly served the
-                                community of Kahathuduwa, Polgasowita for over two decades. Built on a foundation of
-                                trust,
-                                expertise, and a passion for automobiles, we’ve become a go-to destination for reliable
-                                vehicle
-                                repair, maintenance, and diagnostics.<br /> <br />
-                                With years of hands-on experience, Raja and his skilled team offer high-quality service
-                                using
-                                modern tools and techniques ensuring your vehicle is treated with care and precision.
-                                Whether
-                                it's a routine check-up, engine repair, or full service, we’re committed to keeping you
-                                safely on
-                                the road. <br /> <br />
-                                At our garage, customer satisfaction is at the heart of everything we do. We believe in
-                                honest
-                                advice, fair pricing, and building long-term relationships with every client who walks
-                                through
-                                our doors.
+                               Established in 1998 by Raja Pushpakumara Walpola, our garage has proudly served Kahathuduwa, Polgasowita for over 20 years. Built on trust, skill, and a passion for cars, we’re your go-to spot for reliable repairs, maintenance, and diagnostics. </br></br>
+
+With modern tools and hands-on expertise, Raja and his team ensure every vehicle gets precise, high-quality care. From routine checks to engine repairs, your safety is our priority.</br></br>
+
+Customer satisfaction drives us—we offer honest advice, fair pricing, and lasting relationships with every client.
                             </p>
 
 
@@ -1023,21 +1010,21 @@
                                         <span class="icon-star"></span>
                                         <span class="icon-star"></span>
                                         <span class="icon-star"></span>
-                                        <span class="last-icon icon-star"></span>
+                                      
+                                     
                                     </div>
                                 </div>
                                 <p class="testimonial-three__text">
-                                    Car service the maintaining and a the performance longevity
-                                    of the vehicle a From oil is a and tire are rotations Car
-                                    service
+                                I’ve been bringing my car here for years. Raja and his team always deliver honest, top-quality 
+work at a fair price. Highly recommended!
                                 </p>
                                 <div class="testimonial-three__client-box">
                                     <div class="testimonial-three__client-img">
                                         <img src="assets/images/testimonial/testimonial-3-1.jpg" alt="" />
                                     </div>
                                     <div class="testimonial-three__client-content">
-                                        <h4><a href="testimonials.html">Arlene McCoy</a></h4>
-                                        <p>Nursing Assistant</p>
+                                        <h4><a href="testimonials.html"> Nimal Perera</a></h4>
+                                        <p>Kurunagala</p>
                                     </div>
                                 </div>
                             </div>
@@ -1055,21 +1042,20 @@
                                         <span class="icon-star"></span>
                                         <span class="icon-star"></span>
                                         <span class="icon-star"></span>
-                                        <span class="last-icon icon-star"></span>
+                                      
                                     </div>
                                 </div>
                                 <p class="testimonial-three__text">
-                                    Car service the maintaining and a the performance longevity
-                                    of the vehicle a From oil is a and tire are rotations Car
-                                    service
+                                  "Best garage in Polgasowita! Friendly service, quick repairs, and they really know what they’re 
+doing. I wouldn't go anywhere else.
                                 </p>
                                 <div class="testimonial-three__client-box">
                                     <div class="testimonial-three__client-img">
                                         <img src="assets/images/testimonial/testimonial-3-2.jpg" alt="" />
                                     </div>
                                     <div class="testimonial-three__client-content">
-                                        <h4><a href="testimonials.html">Susan Pual</a></h4>
-                                        <p>Nursing Assistant</p>
+                                        <h4><a href="testimonials.html">Shanika Jayawardena </a></h4>
+                                        <p>Colombo</p>
                                     </div>
                                 </div>
                             </div>
@@ -1091,17 +1077,16 @@
                                     </div>
                                 </div>
                                 <p class="testimonial-three__text">
-                                    Car service the maintaining and a the performance longevity
-                                    of the vehicle a From oil is a and tire are rotations Car
-                                    service
+                                    My car had an engine issue that others couldn’t fix. Raja’s team found the problem and had it 
+running smoothly in no time!
                                 </p>
                                 <div class="testimonial-three__client-box">
                                     <div class="testimonial-three__client-img">
                                         <img src="assets/images/testimonial/testimonial-3-3.jpg" alt="" />
                                     </div>
                                     <div class="testimonial-three__client-content">
-                                        <h4><a href="testimonials.html">Robert Spin</a></h4>
-                                        <p>Nursing Assistant</p>
+                                        <h4><a href="testimonials.html">Kasun Silva </a></h4>
+                                        <p>Kandy</p>
                                     </div>
                                 </div>
                             </div>
@@ -1119,21 +1104,20 @@
                                         <span class="icon-star"></span>
                                         <span class="icon-star"></span>
                                         <span class="icon-star"></span>
-                                        <span class="last-icon icon-star"></span>
+                                      
                                     </div>
                                 </div>
                                 <p class="testimonial-three__text">
-                                    Car service the maintaining and a the performance longevity
-                                    of the vehicle a From oil is a and tire are rotations Car
-                                    service
+                                    Excellent service with a personal touch. They treat you like family and make sure your 
+vehicle gets the best care.
                                 </p>
                                 <div class="testimonial-three__client-box">
                                     <div class="testimonial-three__client-img">
                                         <img src="assets/images/testimonial/testimonial-3-1.jpg" alt="" />
                                     </div>
                                     <div class="testimonial-three__client-content">
-                                        <h4><a href="testimonials.html">Adam Smith</a></h4>
-                                        <p>Nursing Assistant</p>
+                                        <h4><a href="testimonials.html">Thilina Madushanka </a></h4>
+                                        <p>Kurunagala</p>
                                     </div>
                                 </div>
                             </div>

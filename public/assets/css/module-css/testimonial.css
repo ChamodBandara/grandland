@@ -419,9 +419,9 @@
     display: block;
     max-width: 1680px;
     width: 100%;
-    background-color: var(--crank-white);
+    /* background-color: var(--crank-white); */
     margin: 0 auto;
-    padding: 120px 0 120px;
+    padding: 80px 0 80px;
     border-radius: 60px;
 }
 
