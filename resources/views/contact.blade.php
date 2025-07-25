@@ -458,13 +458,13 @@ Info@grandautotech.lk">
                         rel="noopener noreferrer"><strong>Vampior
                             Designs</strong></a>.</p>
 
-                <div class="social-icons">
+                {{-- <div class="social-icons">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
 
                     <a href="https://wa.me/your-number" target="_blank" rel="noopener noreferrer"><i
                             class="fab fa-whatsapp"></i></a>
-                </div>
+                </div> --}}
 
             </div>
         </footer>
