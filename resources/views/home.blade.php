@@ -598,8 +598,8 @@
                                 through
                                 our doors.
                             </p>
-                            
-                          
+
+
                         </div>
                     </div>
                 </div>
@@ -1074,7 +1074,7 @@
                         <p>Vehicle Servicing </p>
                     </li>
 
-                     <li>
+                    <li>
                         <div class="icon">
                             <span class="icon-chassis"></span>
                         </div>
@@ -1082,55 +1082,56 @@
                     <li>
                         <p>Computerized Engine Tuning </p>
                     </li>
-                    
+
                 </ul>
             </div>
         </section>
         <!--Sliding Text End-->
 
         <!--Why Choose One Start-->
-       <section class="why-choose-one">
-    <div class="container">
-        <h2 class="section-title">Why Choose Grand Auto Tech?</h2>
-        <div class="cards-container">
-            <!-- Card 1 -->
-            <div class="feature-card">
-                <div class="card-icon">
-                    <img src="/assets/images/icon/experience.png" alt="Experience icon">
+        <section class="why-choose-one">
+            <div class="container">
+                <h2 class="section-title">Why Choose Grand Auto Tech?</h2>
+                <div class="cards-container">
+                    <!-- Card 1 -->
+                    <div class="feature-card">
+                        <div class="card-icon">
+                            <img src="/assets/images/icon/experience.png" alt="Experience icon">
+                        </div>
+                        <h3>Over 25 Years of Trusted Experience</h3>
+                        <p>Our decades of expertise ensure your vehicle gets the best care from seasoned professionals.
+                        </p>
+                    </div>
+
+                    <!-- Card 2 -->
+                    <div class="feature-card">
+                        <div class="card-icon">
+                            <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" alt="Tools icon">
+                        </div>
+                        <h3>Modern Tools & Digital Diagnostics</h3>
+                        <p>We use cutting-edge technology to accurately identify and fix issues with precision.</p>
+                    </div>
+
+                    <!-- Card 3 -->
+                    <div class="feature-card">
+                        <div class="card-icon">
+                            <img src="https://cdn-icons-png.flaticon.com/512/1077/1077063.png" alt="Service icon">
+                        </div>
+                        <h3>Personalized, Honest Customer Service</h3>
+                        <p>Transparent communication and tailored solutions for your specific automotive needs.</p>
+                    </div>
+
+                    <!-- Card 4 -->
+                    <div class="feature-card">
+                        <div class="card-icon">
+                            <img src="/assets/images/icon/technician.png" alt="Tool icon">
+                        </div>
+                        <h3>Skilled, Certified Technicians </h3>
+                        <p>Our technicians are trained, tested, and trusted to provide top-tier automotive care.</p>
+                    </div>
                 </div>
-                <h3>Over 25 Years of Trusted Experience</h3>
-                <p>Our decades of expertise ensure your vehicle gets the best care from seasoned professionals.</p>
             </div>
-            
-            <!-- Card 2 -->
-            <div class="feature-card">
-                <div class="card-icon">
-                    <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" alt="Tools icon">
-                </div>
-                <h3>Modern Tools & Digital Diagnostics</h3>
-                <p>We use cutting-edge technology to accurately identify and fix issues with precision.</p>
-            </div>
-            
-            <!-- Card 3 -->
-            <div class="feature-card">
-                <div class="card-icon">
-                    <img src="https://cdn-icons-png.flaticon.com/512/1077/1077063.png" alt="Service icon">
-                </div>
-                <h3>Personalized, Honest Customer Service</h3>
-                <p>Transparent communication and tailored solutions for your specific automotive needs.</p>
-            </div>
-            
-            <!-- Card 4 -->
-            <div class="feature-card">
-    <div class="card-icon">
-        <img src="/assets/images/icon/technician.png" alt="Tool icon">
-    </div>
-    <h3>Skilled, Certified Technicians </h3>
-    <p>Our technicians are trained, tested, and trusted to provide top-tier automotive care.</p>
-</div>
-        </div>
-    </div>
-</section>
+        </section>
         <!--Why Choose One End-->
 
         <!--Contact Two Start-->
@@ -1156,14 +1157,13 @@
                                 <ul class="contact-two__list list-unstyled">
                                     <li>
                                         <p>
-                                            2118 Thornridge Cir. Syracuse,<br />
-                                            Connecticut 35624
+                                            Grand Auto Tech (Pvt) Ltd
                                         </p>
                                     </li>
                                     <li>
                                         <p>
-                                            3891 Ranchview Dr. Richardson,<br />
-                                            California 62639
+                                            No 1/B/2, Horana Road,<br /> Kahathuduwa,<br />
+                                            Polgasowita.
                                         </p>
                                     </li>
                                 </ul>
@@ -1182,7 +1182,7 @@
                                         <p>Tuesday to Thusday-07 Am To 11Pm</p>
                                     </li>
                                     <li>
-                                        <p>FridayTo Saturday Closed</p>
+                                        <p>Friday To Saturday Closed</p>
                                     </li>
                                 </ul>
                             </div>
@@ -1194,14 +1194,14 @@
                                 </h4>
                                 <ul class="contact-two__list list-unstyled">
                                     <li>
-                                        <p><a href="tel:6035550123">(603) 555-0123</a></p>
+                                        <p><a href="tel:0112705013  "> 011 270 5013 </a></p>
                                     </li>
                                     <li>
-                                        <p><a href="tel:7045550127">(704) 555-0127</a></p>
+                                        <p><a href="tel:0712124500">071 212 4500</a></p>
                                     </li>
                                     <li>
                                         <p>
-                                            <a href="mailto:bill.sanders@example.com">bill.sanders@example.com</a>
+                                            <a href="mailto:bill.sanders@example.com">contact@grandauto.lk</a>
                                         </p>
                                     </li>
                                 </ul>
@@ -1209,10 +1209,13 @@
                         </div>
                     </div>
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
-                        class="google-map__one" allowfullscreen></iframe>
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126737.14680440944!2d79.8993721!3d6.783948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae24e5cba0cb053%3A0xa9f3f21a120f0f65!2sNo%3A%201%2FB%2F2%20Colombo%20-%20Horana%20Rd%2C%20Polgasowita%2C%20Sri%20Lanka!5e0!3m2!1sen!2slk!4v1721896542040!5m2!1sen!2slk"
+                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade" class="google-map__one">
+                    </iframe>
+
                     <div class="contact-two__btn-box">
-                        <a href="#" class="thm-btn">Contact Us<span class="icon-arrow-up-right"></span></a>
+                        <a href="/contact" class="thm-btn">Contact Us<span class="icon-arrow-up-right"></span></a>
                     </div>
                 </div>
             </div>
@@ -1227,7 +1230,8 @@
                         <div class="faq-three__left">
                             <div class="section-title-two text-left sec-title-animation animation-style2">
                                 <div class="section-title-two__tagline-box">
-                                    <span class="section-title-two__tagline">Ask Question</span>
+                                    <span class="section-title-two__tagline">Frequently Asked Questions
+                                    </span>
                                     <div class="section-title-two__tagline-shape-1"></div>
                                 </div>
                                 <h2 class="section-title-two__title title-animation">
@@ -1246,15 +1250,16 @@
                                 <div class="accrodion">
                                     <div class="accrodion-title">
                                         <h4>
-                                            Are scheduled service intervals important for my car?
+                                            What types of vehicles do you service?
                                         </h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                Car service is essential for Car service maintaining
-                                                performance and the longevity of vehicle. From oil
-                                                changes
+                                                We service a wide range of vehicles including cars, vans, SUVs, and
+                                                light commercial vehicles. If you’re unsure, feel free to call us with
+                                                your vehicle details.
+
                                             </p>
                                         </div>
                                         <!-- /.inner -->
@@ -1262,14 +1267,15 @@
                                 </div>
                                 <div class="accrodion active">
                                     <div class="accrodion-title">
-                                        <h4>How often should I get an oil change?</h4>
+                                        <h4>How long does a typical service take?</h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                Car service is essential for Car service maintaining
-                                                performance and the longevity of vehicle. From oil
-                                                changes
+                                                The duration depends on the service type. A basic service usually takes
+                                                a few hours, while more complex repairs may take longer. We’ll always
+                                                give you a time estimate upfront.
+
                                             </p>
                                         </div>
                                         <!-- /.inner -->
@@ -1278,15 +1284,16 @@
                                 <div class="accrodion">
                                     <div class="accrodion-title">
                                         <h4>
-                                            What are the signs that my brakes need to be serviced?
+                                            Do you provide spare parts?
                                         </h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                Car service is essential for Car service maintaining
-                                                performance and the longevity of vehicle. From oil
-                                                changes
+                                                Yes. We stock commonly needed spare parts and can source others through
+                                                trusted suppliers if not in stock. All parts go through an approval
+                                                process before installation.
+
                                             </p>
                                         </div>
                                         <!-- /.inner -->
@@ -1295,15 +1302,16 @@
                                 <div class="accrodion">
                                     <div class="accrodion-title">
                                         <h4>
-                                            What is included in a standard car maintenance package?
+                                            Is there a way to see my past service history?
                                         </h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                Car service is essential for Car service maintaining
-                                                performance and the longevity of vehicle. From oil
-                                                changes
+                                                Yes, we maintain a digital history of all services done on your vehicle.
+                                                You can request this information at any time by providing your NIC or
+                                                vehicle number.
+
                                             </p>
                                         </div>
                                         <!-- /.inner -->
@@ -1315,10 +1323,14 @@
                 </div>
             </div>
         </section>
-        <!--FAQ Three End-->
 
-        <!--Blog Three Start-->
-        <section class="blog-three">
+
+
+    </div>
+    <!--FAQ Three End-->
+
+    <!--Blog Three Start-->
+    {{-- <section class="blog-three">
             <div class="container">
                 <div class="section-title-two text-center sec-title-animation animation-style1">
                     <div class="section-title-two__tagline-box justify-content-center">
@@ -1399,75 +1411,83 @@
                     <!--Blog Three Single End-->
                 </div>
             </div>
-        </section>
-        <!--Blog Three End-->
+        </section> --}}
+    <!--Blog Three End-->
 
-        <!--Site Footer Three Start-->
-        <footer class="modern-footer">
-            <div class="footer-content">
-                <!-- Logo + Contact -->
-                <div class="footer-logo">
-                    <h2>GRAND AUTO<span>TECH</span></h2>
-                    <p>Your trusted auto service center</p>
-                    <div class="contact-info">
-                        <p><i class="fas fa-phone"></i> <a href="tel:+11234567890">+1 (123) 456-7890</a></p>
-                        <p><i class="fas fa-envelope"></i> <a
-                                href="mailto:contact@garagepro.com">contact@garagepro.com</a></p>
-                        <p><i class="fas fa-map-marker-alt"></i> 123 Garage St, Detroit, MI</p>
-                    </div>
-                </div>
+    <!--Site Footer Three Start-->
+    <footer class="modern-footer">
+        <div class="footer-content">
+            <!-- Logo + Contact -->
+            <div class="footer-logo">
+                <h2>GRAND AUTO<span>TECH</span></h2>
+                <p>Your trusted auto service center</p>
+                <div class="contact-info">
+                    <p><i class="fas fa-phone"></i> <a href="tel:0112705013"> 011 270 5013</a> <a
+                            href="tel:0712124500"> 071 212 4500</a></p>
+                    <p><i class="fas fa-envelope"></i> <a href="mailto:contact@grandauto.lk">contact@grandauto.lk</a>
+                    </p>
+                    <a href="https://www.google.com/maps?q=No+1%2FB%2F2,+Horana+Road,+Kahathuduwa,+Polgasowita"
+                        target="_blank" style="text-decoration: none; color: inherit;">
+                        <p>
+                            <i class="fas fa-map-marker-alt"></i>
+                            No 1/B/2, Horana Road, Kahathuduwa,<br>Polgasowita.
+                        </p>
+                    </a>
 
-                <!-- Quick Links -->
-                <div class="footer-column">
-                    <h3>Quick Links</h3>
-                    <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Pricing</a></li>
-                    </ul>
-                </div>
-
-                <!-- Legal Links -->
-                <div class="footer-column">
-                    <h3>Useful Links</h3>
-                    <ul>
-                        <li><a href="/return-policy">Refund Policy</a></li>
-                        <li><a href="/privacy-policy">Privacy Policy</a></li>
-                        <li><a href="/terms-and-condition">Terms & Conditions</a></li>
-                        <li><a href="/contact">Contact Us</a></li>
-                    </ul>
-                </div>
-
-                <!-- Google Maps -->
-                <div class="footer-column">
-                    <h3>Find Us</h3>
-                    <div class="map-container">
-                        <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215209132713!2d-73.98784492426678!3d40.74844097138989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDQ0JzU0LjQiTiA3M8KwNTknMTkuNyJX!5e0!3m2!1sen!2sus!4v1620000000000!5m2!1sen!2sus"
-                            width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy">
-                        </iframe>
-                    </div>
                 </div>
             </div>
 
-            <!-- Copyright + Social -->
-            <div class="footer-bottom">
-                <p>&copy; <?php echo date('Y'); ?> <strong>Grand Auto Tech</strong>. All rights reserved. Developed by <a
-                        href="https://www.vampiordesigns.com" target="_blank"
-                        rel="noopener noreferrer"><strong>Vampior Designs</strong></a>.</p>
-
-                <div class="social-icons">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-
-                    <a href="https://wa.me/your-number" target="_blank" rel="noopener noreferrer"><i
-                            class="fab fa-whatsapp"></i></a>
-                </div>
-
+            <!-- Quick Links -->
+            <div class="footer-column">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Pricing</a></li>
+                </ul>
             </div>
-        </footer>
-        <!--Site Footer Three End-->
+
+            <!-- Legal Links -->
+            <div class="footer-column">
+                <h3>Useful Links</h3>
+                <ul>
+                    <li><a href="/return-policy">Refund Policy</a></li>
+                    <li><a href="/privacy-policy">Privacy Policy</a></li>
+                    <li><a href="/terms-and-condition">Terms & Conditions</a></li>
+                    <li><a href="/contact">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <!-- Google Maps -->
+            <div class="footer-column">
+                <h3>Find Us</h3>
+                <div class="map-container">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126737.14680440944!2d79.8993721!3d6.783948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae24e5cba0cb053%3A0xa9f3f21a120f0f65!2sNo%3A%201%2FB%2F2%20Colombo%20-%20Horana%20Rd%2C%20Polgasowita%2C%20Sri%20Lanka!5e0!3m2!1sen!2slk!4v1721896542040!5m2!1sen!2slk"
+                        width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+
+        <!-- Copyright + Social -->
+        <div class="footer-bottom">
+            <p>&copy; <?php echo date('Y'); ?> <strong>Grand Auto Tech</strong>. All rights reserved. Developed by <a
+                    href="https://www.vampiordesigns.com" target="_blank" rel="noopener noreferrer"><strong>Vampior
+                        Designs</strong></a>.</p>
+
+            <div class="social-icons">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+
+                <a href="https://wa.me/your-number" target="_blank" rel="noopener noreferrer"><i
+                        class="fab fa-whatsapp"></i></a>
+            </div>
+
+        </div>
+    </footer>
+    <!--Site Footer Three End-->
     </div>
     <!-- /.page-wrapper -->
 

@@ -2229,7 +2229,8 @@ ul {
             color: #fff;
             padding: 40px 0 25px;
             font-family: 'Arial', sans-serif;
-            box-shadow: 0 -5px 20px rgba(0,0,0,0.3);
+           
+            margin-top: 50px;
         }
 
         .footer-content {
