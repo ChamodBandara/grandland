@@ -1038,7 +1038,7 @@
                                 </p>
                                 <div class="testimonial-three__client-box">
                                     <div class="testimonial-three__client-img">
-                                        <img src="assets/images/testimonial/testimonial-3-1.jpg" alt="" />
+                                        <img src="assets/images/testimonial/testmonial3.png" alt="" />
                                     </div>
                                     <div class="testimonial-three__client-content">
                                         <h4><a href="testimonials.html"> Nimal Perera</a></h4>
@@ -1070,7 +1070,7 @@
                                 </p>
                                 <div class="testimonial-three__client-box">
                                     <div class="testimonial-three__client-img">
-                                        <img src="assets/images/testimonial/testimonial-3-2.jpg" alt="" />
+                                        <img src="assets/images/testimonial/testmonial6.png" alt="" />
                                     </div>
                                     <div class="testimonial-three__client-content">
                                         <h4><a href="testimonials.html">Shanika Jayawardena </a></h4>
@@ -1102,7 +1102,7 @@
                                 </p>
                                 <div class="testimonial-three__client-box">
                                     <div class="testimonial-three__client-img">
-                                        <img src="assets/images/testimonial/testimonial-3-3.jpg" alt="" />
+                                        <img src="assets/images/testimonial/testmonial1.png" alt="" />
                                     </div>
                                     <div class="testimonial-three__client-content">
                                         <h4><a href="testimonials.html">Kasun Silva </a></h4>
@@ -1134,7 +1134,7 @@
                                 </p>
                                 <div class="testimonial-three__client-box">
                                     <div class="testimonial-three__client-img">
-                                        <img src="assets/images/testimonial/testimonial-3-1.jpg" alt="" />
+                                        <img src="assets/images/testimonial/testmonial2.png" alt="" />
                                     </div>
                                     <div class="testimonial-three__client-content">
                                         <h4><a href="testimonials.html">Thilina Madushanka </a></h4>
