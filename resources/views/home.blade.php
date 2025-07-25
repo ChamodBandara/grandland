@@ -1520,6 +1520,11 @@
             <div class="logo-box">
                 {{-- <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-1.png"
                         width="135" alt="" /></a> --}}
+                        <p>
+                                            <span class="white-text">GRAND AUTO</span>
+                                            <span class="red-text">TECH</span>
+                                        </p>
+
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -1528,11 +1533,11 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">needhelp@crank.com</a>
+                    <a href="mailto:Info@grandautotech.lk">Info@grandautotech.lk</a>
                 </li>
                 <li>
                     <i class="fas fa-phone"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
+                    <a href="tel:0712124500">071 212 4500</a>
                 </li>
             </ul>
             <!-- /.mobile-nav__contact -->

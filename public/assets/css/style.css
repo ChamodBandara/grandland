@@ -2265,6 +2265,8 @@ ul {
     letter-spacing: 1px;
 }
 
+
+
 .footer-logo h2 span {
     color: #ff0000;
     text-shadow: 0 0 10px rgba(255, 68, 68, 0.5);
@@ -2440,7 +2442,7 @@ ul {
     }
 
     .footer-logo {
-        text-align: center;
+        text-align: left;
     }
 
     .footer-bottom {
@@ -2450,7 +2452,7 @@ ul {
     }
 
     .contact-info p {
-        justify-content: center;
+        justify-content: left;
     }
 }
 
@@ -2737,6 +2739,11 @@ ul {
 
 .black-text {
   color: black;
+  font-size: 24px;
+  font-weight: bold;
+}
+.white-text {
+  color: white;
   font-size: 24px;
   font-weight: bold;
 }
