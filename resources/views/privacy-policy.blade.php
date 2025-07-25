@@ -339,7 +339,7 @@
               <div class="page-header__shape-4"></div>
               <div class="page-header__img-1">
                 <img
-                  src="assets/images/resources/page-header-img-1.png"
+                 src="assets/images/resources/breadcumb.png"
                   alt=""
                 />
                 <div class="page-header__shape-5">
@@ -497,65 +497,78 @@
 
 
       <!--Site Footer Start-->
-  <footer class="modern-footer">
+<footer class="modern-footer">
         <div class="footer-content">
             <!-- Logo + Contact -->
             <div class="footer-logo">
-                <h2>GARAGE<span>PRO</span></h2>
+                <h2>GRAND AUTO<span>TECH</span></h2>
                 <p>Your trusted auto service center</p>
                 <div class="contact-info">
-                    <p><i class="fas fa-phone"></i> <a href="tel:+11234567890">+1 (123) 456-7890</a></p>
-                    <p><i class="fas fa-envelope"></i> <a href="mailto:contact@garagepro.com">contact@garagepro.com</a></p>
-                    <p><i class="fas fa-map-marker-alt"></i> 123 Garage St, Detroit, MI</p>
+                    <p><i class="fas fa-phone"></i> <a href="tel:0112705013"> 011 270 5013</a> <a
+                            href="tel:0712124500"> 071 212 4500</a></p>
+                    <p><i class="fas fa-envelope"></i> <a
+                            href="mailto:Info@grandautotech.lk">Info@grandautotech.lk</a>
+                    </p>
+                    <a href="https://www.google.com/maps?q=No+1%2FB%2F2,+Horana+Road,+Kahathuduwa,+Polgasowita"
+                        target="_blank" style="text-decoration: none; color: inherit;">
+                        <p>
+                            <i class="fas fa-map-marker-alt"></i>
+                            No 1/B/2, Horana Road, Kahathuduwa,<br>Polgasowita.
+                        </p>
+                    </a>
+
                 </div>
             </div>
-            
+
             <!-- Quick Links -->
             <div class="footer-column">
                 <h3>Quick Links</h3>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About Us</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
                     <li><a href="#">Services</a></li>
-                    <li><a href="#">Pricing</a></li>
+                    <li><a href="#">Features
+                        </a></li>
                 </ul>
             </div>
-            
+
             <!-- Legal Links -->
             <div class="footer-column">
-                <h3>Legal</h3>
+                <h3>Useful Links</h3>
                 <ul>
-                    <li><a href="#">Privacy Policy</a></li>
-                    <li><a href="#">Terms of Service</a></li>
-                    <li><a href="#">FAQ</a></li>
-                    <li><a href="#">Careers</a></li>
+                    <li><a href="/return-policy">Refund Policy</a></li>
+                    <li><a href="/privacy-policy">Privacy Policy</a></li>
+                    <li><a href="/terms-and-condition">Terms & Conditions</a></li>
+                    <li><a href="/contact">Contact Us</a></li>
                 </ul>
             </div>
-            
+
             <!-- Google Maps -->
             <div class="footer-column">
                 <h3>Find Us</h3>
                 <div class="map-container">
-                    <iframe 
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215209132713!2d-73.98784492426678!3d40.74844097138989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDQ0JzU0LjQiTiA3M8KwNTknMTkuNyJX!5e0!3m2!1sen!2sus!4v1620000000000!5m2!1sen!2sus" 
-                        width="100%" 
-                        height="150" 
-                        style="border:0;" 
-                        allowfullscreen="" 
-                        loading="lazy">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126737.14680440944!2d79.8993721!3d6.783948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae24e5cba0cb053%3A0xa9f3f21a120f0f65!2sNo%3A%201%2FB%2F2%20Colombo%20-%20Horana%20Rd%2C%20Polgasowita%2C%20Sri%20Lanka!5e0!3m2!1sen!2slk!4v1721896542040!5m2!1sen!2slk"
+                        width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy">
                     </iframe>
                 </div>
             </div>
         </div>
-        
+
         <!-- Copyright + Social -->
         <div class="footer-bottom">
-            <p>&copy; 2024 <strong>GaragePro</strong>. All rights reserved.</p>
+            <p>&copy; <?php echo date('Y'); ?> <strong>Grand Auto Tech</strong>. All rights reserved. Developed by <a
+                    href="https://www.vampiordesigns.com" target="_blank" rel="noopener noreferrer"><strong>Vampior
+                        Designs</strong></a>.</p>
+
             <div class="social-icons">
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                 <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-twitter"></i></a>
+
+                <a href="https://wa.me/your-number" target="_blank" rel="noopener noreferrer"><i
+                        class="fab fa-whatsapp"></i></a>
             </div>
+
         </div>
     </footer>
       <!--Site Footer End-->
