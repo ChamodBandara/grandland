@@ -1224,11 +1224,13 @@
                             </div>
                         </div>
                     </div>
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126737.14680440944!2d79.8993721!3d6.783948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae24e5cba0cb053%3A0xa9f3f21a120f0f65!2sNo%3A%201%2FB%2F2%20Colombo%20-%20Horana%20Rd%2C%20Polgasowita%2C%20Sri%20Lanka!5e0!3m2!1sen!2slk!4v1721896542040!5m2!1sen!2slk"
-                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade" class="google-map__one">
-                    </iframe>
+                <iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126737.14680440944!2d79.8993721!3d6.783948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f18!3m3!1m2!1s0x3ae24e5cba0cb053%3A0xa9f3f21a120f0f65!2sNo%3A%201%2FB%2F2%20Colombo%20-%20Horana%20Rd%2C%20Polgasowita%2C%20Sri%20Lanka!5e0!3m2!1sen!2slk!4v1721896542040!5m2!1sen!2slk"
+    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade" class="google-map__one">
+</iframe>
+
+
 
                     <div class="contact-two__btn-box">
                         <a href="/contact" class="thm-btn">Contact Us<span class="icon-arrow-up-right"></span></a>

@@ -475,6 +475,7 @@
 .testimonial-three__text {
     border: 1px solid var(--crank-bdr-color);
     border-radius: 20px;
+    background-color: white;
     font-size: 20px;
     line-height: 29px;
     padding: 30px 30px 28px;

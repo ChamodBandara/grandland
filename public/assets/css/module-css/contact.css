@@ -424,7 +424,7 @@
     border: none;
     height: 310px;
     width: 100%;
-    filter: grayscale(1);
+    
     border-radius: 20px;
 }
 
