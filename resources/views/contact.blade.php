@@ -67,7 +67,7 @@
     <!-- /.preloader -->
 
     <!-- Start sidebar widget content -->
-    <div class="xs-sidebar-group info-group info-sidebar">
+    {{-- <div class="xs-sidebar-group info-group info-sidebar">
         <div class="xs-overlay xs-bg-black"></div>
         <div class="xs-sidebar-widget">
             <div class="sidebar-widget-container">
@@ -115,7 +115,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- End sidebar widget content -->
 
     <div class="page-wrapper">
@@ -123,7 +123,7 @@
             <div class="main-header-three__wrapper">
                 <div class="main-menu-three__top">
                     <div class="container">
-                        <div class="main-menu-three__top-inner">
+                        {{-- <div class="main-menu-three__top-inner">
                             <ul class="list-unstyled main-menu-three__contact-list">
                                 <li>
                                     <div class="icon">
@@ -150,7 +150,7 @@
                                     <a href="#"><i class="icon-linkedin-in-two"></i></a>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <nav class="main-menu main-menu-three">
@@ -159,8 +159,14 @@
                             <div class="main-menu-three__wrapper-inner">
                                 <div class="main-menu-three__left">
                                     <div class="main-header-three__logo">
-                                        <a href="index.html"><img src="assets/images/resources/logo-2.png"
-                                                alt="" /></a>
+                                        {{-- <a href="index.html"><img src="assets/images/resources/logo-2.png"
+                                                alt="" /></a> --}}
+                                        <p>
+                                            <span class="black-text">GRAND AUTO</span>
+                                            <span class="red-text">TECH</span>
+                                        </p>
+
+
                                     </div>
                                 </div>
                                 <div class="main-menu-three__right">
@@ -194,12 +200,17 @@
                                         </ul>
                                     </div>
                                     <div class="main-menu__nav-sidebar-icon">
-                                        <a class="navSidebar-button" href="#">
-                                            <span class="icon-dots-menu-one"></span>
-                                            <span class="icon-dots-menu-two"></span>
-                                            <span class="icon-dots-menu-three"></span>
+                                        <a href="/contact">
+                                            <button
+                                                style="padding: 8px 16px; background-color: black; color: white; border: none; border-radius: 4px; cursor: pointer;"
+                                                onmouseover="this.style.backgroundColor='#333';"
+                                                onmouseout="this.style.backgroundColor='black';">
+                                                Need Help?
+                                            </button>
                                         </a>
+
                                     </div>
+
                                 </div>
                             </div>
                         </div>
