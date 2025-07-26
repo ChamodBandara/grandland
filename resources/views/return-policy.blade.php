@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Shared on THEMELOCK.COM - About || Crank || Crank HTML 5 Template</title>
+    <title>Grand Auto Tech</title>
     <!-- favicons Icons -->
     <link
       rel="apple-touch-icon"

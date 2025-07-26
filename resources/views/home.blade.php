@@ -1205,7 +1205,7 @@
                                         <p>Tuesday to Thusday-07 Am To 11Pm</p>
                                     </li>
                                     <li>
-                                        <p>Friday To Saturday Closed</p>
+                                        <p><br /></p>
                                     </li>
                                 </ul>
                             </div>
