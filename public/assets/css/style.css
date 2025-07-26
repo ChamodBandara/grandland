@@ -450,6 +450,7 @@ ul {
     letter-spacing: 0.1em;
     font-weight: 700;
     margin-left: 10px;
+    margin-bottom: 65px;
 }
 
 .scroll-to-top__wrapper {
@@ -2803,3 +2804,30 @@ ul {
   display: none !important;
 }
 
+.scroll-to-top__text
+ {
+  display: none !important;
+}
+
+.whatsapp-icon {
+      position: fixed;
+      bottom: 30px;
+      right: 20px;
+      background-color: #25d366;
+      color: white;
+      border-radius: 50%;
+      width: 55px;
+      height: 55px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 26px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+      text-decoration: none;
+      z-index: 999;
+      transition: background-color 0.3s ease;
+    }
+
+    .whatsapp-icon:hover {
+      background-color: #1ebc59;
+    }

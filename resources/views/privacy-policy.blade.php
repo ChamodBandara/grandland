@@ -80,6 +80,10 @@
     <div class="preloader">
       <div class="preloader__image"></div>
     </div>
+
+      <a href="https://wa.me/94712124500" class="whatsapp-icon" target="_blank" aria-label="Chat on WhatsApp">
+    <i class="fab fa-whatsapp"></i>
+  </a>
     <!-- /.preloader -->
 
     <!-- Start sidebar widget content -->
