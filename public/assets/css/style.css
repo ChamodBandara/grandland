@@ -2794,3 +2794,12 @@ ul {
 .main-menu__list a {
     transition: color 0.3s ease;
 }
+
+.owl-next {
+  display: none !important;
+}
+
+.owl-prev {
+  display: none !important;
+}
+
