@@ -38,6 +38,7 @@
     padding: 282px 0 173px;
     overflow: hidden;
     z-index: 1;
+    max-height: 300px ;
 }
 
 .page-header__inner h2 {

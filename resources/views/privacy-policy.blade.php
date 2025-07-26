@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Shared on THEMELOCK.COM - About || Crank || Crank HTML 5 Template</title>
+    <title>Grand Auto Tech</title>
     <!-- favicons Icons -->
     <link
       rel="apple-touch-icon"
@@ -80,10 +80,14 @@
     <div class="preloader">
       <div class="preloader__image"></div>
     </div>
+
+      <a href="https://wa.me/94712124500" class="whatsapp-icon" target="_blank" aria-label="Chat on WhatsApp">
+    <i class="fab fa-whatsapp"></i>
+  </a>
     <!-- /.preloader -->
 
     <!-- Start sidebar widget content -->
-    <div class="xs-sidebar-group info-group info-sidebar">
+    {{-- <div class="xs-sidebar-group info-group info-sidebar">
       <div class="xs-overlay xs-bg-black"></div>
       <div class="xs-sidebar-widget">
         <div class="sidebar-widget-container">
@@ -148,179 +152,125 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> --}}
     <!-- End sidebar widget content -->
 
     <div class="page-wrapper">
-      <header class="main-header">
-        <div class="main-header__wrapper">
-          <nav class="main-menu">
-            <div class="main-menu__wrapper">
-              <div class="container">
-                <div class="main-menu__wrapper-inner">
-                  <div class="main-menu__left">
-                    <div class="main-header__logo">
-                      <a href="index.html"
-                        ><img src="assets/images/resources/logo-1.png" alt=""
-                      /></a>
-                    </div>
-                  </div>
-                  <div class="main-menu__main-menu-box">
-                    <a href="#" class="mobile-nav__toggler"
-                      ><i class="fa fa-bars"></i
-                    ></a>
-                    <ul class="main-menu__list">
-                      <li class="dropdown">
-                        <a href="index.html">Home </a>
-                        <ul>
-                          <li><a href="index.html">Home One</a></li>
-                          <li><a href="index2.html">Home Two</a></li>
-                          <li><a href="index3.html">Home Three</a></li>
-                          <li><a href="index4.html">Home Four</a></li>
-                          <li><a href="index-dark.html">Home Dark</a></li>
-                          <li class="dropdown">
-                            <a href="#">One Page Styles</a>
-                            <ul>
-                              <li>
-                                <a href="index-one-page.html"
-                                  >One Page Styles One</a
-                                >
-                              </li>
-                              <li>
-                                <a href="index2-one-page.html"
-                                  >One Page Styles Two</a
-                                >
-                              </li>
-                              <li>
-                                <a href="index3-one-page.html"
-                                  >One Page Styles Three</a
-                                >
-                              </li>
-                              <li>
-                                <a href="index4-one-page.html"
-                                  >One Page Styles Four</a
-                                >
-                              </li>
+    <header class="main-header-three">
+            <div class="main-header-three__wrapper">
+                <div class="main-menu-three__top">
+                    <div class="container">
+                        {{-- <div class="main-menu-three__top-inner">
+                            <ul class="list-unstyled main-menu-three__contact-list">
+                                <li>
+                                    <div class="icon">
+                                        <i class="icon-pin"></i>
+                                    </div>
+                                    <div class="text">
+                                        <p>No 1/B/2, Horana Road, Kahathuduwa, Polgasowita </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <i class="icon-clock"></i>
+                                    </div>
+                                    <div class="text">
+                                        <p>Mon-Fri: 08:00 AM-05:00 PM</p>
+                                    </div>
+                                </li>
                             </ul>
-                          </li>
-                        </ul>
-                      </li>
-                      <li>
-                        <a href="about.html">About Us</a>
-                      </li>
-                      <li class="dropdown">
-                        <a href="#">Pages</a>
-                        <ul>
-                          <li><a href="team.html">Team</a></li>
-                          <li>
-                            <a href="team-carousel.html">Team Carousel</a>
-                          </li>
-                          <li><a href="team-details.html">Team Details</a></li>
-                          <li><a href="project.html">Projects</a></li>
-                          <li>
-                            <a href="project-details.html">Project Details</a>
-                          </li>
-                          <li><a href="testimonials.html">Testimonials</a></li>
-                          <li>
-                            <a href="testimonial-carousel.html"
-                              >Testimonial Carousel</a
-                            >
-                          </li>
-                          <li><a href="pricing.html">Pricing</a></li>
-                          <li>
-                            <a href="pricing-carousel.html">Pricing Carousel</a>
-                          </li>
-                          <li><a href="faq.html">Faq</a></li>
-                          <li><a href="404.html">404 Error</a></li>
-                        </ul>
-                      </li>
-                      <li class="dropdown">
-                        <a href="#">Services</a>
-                        <ul>
-                          <li><a href="services.html">Services</a></li>
-                          <li>
-                            <a href="easy-drive-maintenance.html"
-                              >Easy Drive Maintenance</a
-                            >
-                          </li>
-                          <li>
-                            <a href="elite-auto-services.html"
-                              >Elite Auto Services</a
-                            >
-                          </li>
-                          <li>
-                            <a href="smooth-ride-vehicle-care.html"
-                              >Smooth Ride Vehicle Care</a
-                            >
-                          </li>
-                          <li>
-                            <a href="careful-car-service-station.html"
-                              >Careful Car Service Station</a
-                            >
-                          </li>
-                          <li>
-                            <a href="auto-pro-mechanic-shop.html"
-                              >Auto Pro Mechanic Shop</a
-                            >
-                          </li>
-                        </ul>
-                      </li>
-                      <li class="dropdown">
-                        <a href="#">Shop</a>
-                        <ul>
-                          <li><a href="products.html">Products</a></li>
-                          <li>
-                            <a href="product-details.html">Product Details</a>
-                          </li>
-                          <li><a href="cart.html">Cart</a></li>
-                          <li><a href="checkout.html">Checkout</a></li>
-                          <li><a href="wishlist.html">Wishlist</a></li>
-                          <li><a href="sign-up.html">Sign Up</a></li>
-                          <li><a href="login.html">Login</a></li>
-                        </ul>
-                      </li>
-                      <li class="dropdown">
-                        <a href="#">Blog</a>
-                        <ul>
-                          <li><a href="blog.html">Blog</a></li>
-                          <li>
-                            <a href="blog-carousel.html">Blog Carousel</a>
-                          </li>
-                          <li><a href="blog-list.html">Blog List</a></li>
-                          <li><a href="blog-details.html">Blog Details</a></li>
-                        </ul>
-                      </li>
-                      <li>
-                        <a href="contact.html">Contact</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <div class="main-menu__right">
-                    <div class="main-menu__social">
-                      <a href="#"><span class="icon-facebook-f"></span></a>
-                      <a href="#"><span class="icon-Vector"></span></a>
-                      <a href="#"><span class="icon-instagram"></span></a>
-                      <a href="#"><span class="icon-pintarest"></span></a>
+                            <div class="main-menu-three__top-right">
+                                <div class="main-menu-three__social">
+                                    <a href="#"><i class="icon-facebook-f"></i></a>
+                                    <a href="#"><i class="icon-instagram"></i></a>
+                                    <a href="#"><i class="icon-Vector"></i></a>
+                                    <a href="#"><i class="icon-linkedin-in-two"></i></a>
+                                </div>
+                            </div>
+                        </div> --}}
                     </div>
-                    <div class="main-menu__nav-sidebar-icon">
-                      <a class="navSidebar-button" href="#">
-                        <span class="icon-dots-menu-one"></span>
-                        <span class="icon-dots-menu-two"></span>
-                        <span class="icon-dots-menu-three"></span>
-                      </a>
-                    </div>
-                  </div>
                 </div>
-              </div>
-            </div>
-          </nav>
-        </div>
-      </header>
+                <nav class="main-menu main-menu-three">
+                    <div class="main-menu-three__wrapper">
+                        <div class="container">
+                            <div class="main-menu-three__wrapper-inner">
+                                <div class="main-menu-three__left">
+                                    <div class="main-header-three__logo">
+                                        {{-- <a href="index.html"><img src="assets/images/resources/logo-2.png"
+                                                alt="" /></a> --}}
+                                        <p>
+                                            <span class="black-text">GRAND AUTO</span>
+                                            <span class="red-text">TECH</span>
+                                        </p>
 
-      <div class="stricky-header stricked-menu main-menu">
-        <div class="sticky-header__content"></div>
-        <!-- /.sticky-header__content -->
-      </div>
+
+                                    </div>
+                                </div>
+                                <div class="main-menu-three__right">
+                                    <div class="main-menu-three__main-menu-box">
+                                        <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
+                                         <ul class="main-menu__list">
+
+                                            <li>
+                                                <a href="/">Home</a>
+                                            </li>
+                                            <li>
+
+                                                <a href="{{ url('/#about') }}">About Us</a>
+                                            </li>
+                                            <li>
+
+                                                <a href="{{ url('/#services') }}">Services</a>
+                                            </li>
+
+                                            <li>
+
+                                                <a href="{{ url('/#features') }}">Features</a>
+                                            </li>
+                                            <li>
+
+                                                <a href="{{ url('/#testimonials') }}">Testimonials</a>
+                                            </li>
+
+                                            <li>
+                                                <a href="/contact">Contact Us</a>
+                                            </li>
+
+
+
+                                        </ul>
+                                    </div>
+                                    <div class="main-menu__nav-sidebar-icon">
+                                        <a href="tel:0112705013">
+                                            <button
+                                                style="padding: 8px 16px; background-color: black; color: white; border: none; border-radius: 4px; cursor: pointer; display: flex; align-items: center; gap: 8px;"
+                                                onmouseover="this.style.backgroundColor='#333';"
+                                                onmouseout="this.style.backgroundColor='black';">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                                    <path
+                                                        d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                                    </path>
+                                                </svg>
+                                                Hotline
+                                            </button>
+                                        </a>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </header>
+
+       <div class="stricky-header stricked-menu main-menu main-menu-three">
+            <div class="sticky-header__content"></div>
+            <!-- /.sticky-header__content -->
+        </div>
       <!-- /.stricky-header -->
 
       <!--Page Header Start-->
@@ -339,7 +289,7 @@
               <div class="page-header__shape-4"></div>
               <div class="page-header__img-1">
                 <img
-                  src="assets/images/resources/page-header-img-1.png"
+                 src="assets/images/resources/breadcumb.png"
                   alt=""
                 />
                 <div class="page-header__shape-5">
@@ -367,8 +317,8 @@
         <div class="container">
             <div class="privacy-policy">
                 <h1>Privacy Policy</h1>
-                <p>Your privacy is important to us. It is Moonvine's policy to respect your privacy regarding any 
-                information we may collect from you across our website, <a href="https://moonvinebeautrycare.com">https://moonvinebeautrycare.com</a>, 
+                <p>Your privacy is important to us. It is grand auto tech's policy to respect your privacy regarding any 
+                information we may collect from you across our website, <a href="https://grandautotech.lk">https://grandautotech.lk</a>, 
                 and other sites we own and operate.</p>
                 
                 <section>
@@ -394,7 +344,7 @@
                     <h3>How Do I Withdraw My Consent?</h3>
                     <p>If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, 
                     for the continued collection, use or disclosure of your information, at anytime, by contacting us 
-                    at <a href="mailto:info@moonvinebeautrycare.com">info@moonvinebeautrycare.com</a></p>
+                    at <a href="mailto:Info@grandautotech.lk">Info@grandautotech.lk</a></p>
                 </section>
                 
                 <section>
@@ -480,7 +430,7 @@
                     <h2>QUESTIONS AND CONTACT INFORMATION</h2>
                     <p>If you would like to: access, correct, amend or delete any personal information we have about 
                     you, register a complaint, or simply want more information, please contact us.</p>
-                    <p>Email: <a href="mailto:info@moonvinebeautrycare.com">info@moonvinebeautrycare.com</a></p>
+                    <p>Email: <a href="mailto:Info@grandautotech.lk">Info@grandautotech.lk</a></p>
                 </section>
             </div>
         </div>
@@ -497,111 +447,126 @@
 
 
       <!--Site Footer Start-->
-  <footer class="modern-footer">
+<footer class="modern-footer">
         <div class="footer-content">
             <!-- Logo + Contact -->
             <div class="footer-logo">
-                <h2>GARAGE<span>PRO</span></h2>
+                <h2>GRAND AUTO<span>TECH</span></h2>
                 <p>Your trusted auto service center</p>
                 <div class="contact-info">
-                    <p><i class="fas fa-phone"></i> <a href="tel:+11234567890">+1 (123) 456-7890</a></p>
-                    <p><i class="fas fa-envelope"></i> <a href="mailto:contact@garagepro.com">contact@garagepro.com</a></p>
-                    <p><i class="fas fa-map-marker-alt"></i> 123 Garage St, Detroit, MI</p>
+                    <p><i class="fas fa-phone"></i> <a href="tel:0112705013"> 011 270 5013</a> <a
+                            href="tel:0712124500"> 071 212 4500</a></p>
+                    <p><i class="fas fa-envelope"></i> <a
+                            href="mailto:Info@grandautotech.lk">Info@grandautotech.lk</a>
+                    </p>
+                    <a href="https://www.google.com/maps?q=No+1%2FB%2F2,+Horana+Road,+Kahathuduwa,+Polgasowita"
+                        target="_blank" style="text-decoration: none; color: inherit;">
+                        <p>
+                            <i class="fas fa-map-marker-alt"></i>
+                            No 1/B/2, Horana Road, Kahathuduwa,<br>Polgasowita.
+                        </p>
+                    </a>
+
                 </div>
             </div>
-            
+
             <!-- Quick Links -->
             <div class="footer-column">
                 <h3>Quick Links</h3>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About Us</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
                     <li><a href="#">Services</a></li>
-                    <li><a href="#">Pricing</a></li>
+                    <li><a href="#">Features
+                        </a></li>
                 </ul>
             </div>
-            
+
             <!-- Legal Links -->
             <div class="footer-column">
-                <h3>Legal</h3>
+                <h3>Useful Links</h3>
                 <ul>
-                    <li><a href="#">Privacy Policy</a></li>
-                    <li><a href="#">Terms of Service</a></li>
-                    <li><a href="#">FAQ</a></li>
-                    <li><a href="#">Careers</a></li>
+                    <li><a href="/return-policy">Refund Policy</a></li>
+                    <li><a href="/privacy-policy">Privacy Policy</a></li>
+                    <li><a href="/terms-and-condition">Terms & Conditions</a></li>
+                    <li><a href="/contact">Contact Us</a></li>
                 </ul>
             </div>
-            
+
             <!-- Google Maps -->
             <div class="footer-column">
                 <h3>Find Us</h3>
                 <div class="map-container">
-                    <iframe 
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215209132713!2d-73.98784492426678!3d40.74844097138989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDQ0JzU0LjQiTiA3M8KwNTknMTkuNyJX!5e0!3m2!1sen!2sus!4v1620000000000!5m2!1sen!2sus" 
-                        width="100%" 
-                        height="150" 
-                        style="border:0;" 
-                        allowfullscreen="" 
-                        loading="lazy">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126737.14680440944!2d79.8993721!3d6.783948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae24e5cba0cb053%3A0xa9f3f21a120f0f65!2sNo%3A%201%2FB%2F2%20Colombo%20-%20Horana%20Rd%2C%20Polgasowita%2C%20Sri%20Lanka!5e0!3m2!1sen!2slk!4v1721896542040!5m2!1sen!2slk"
+                        width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy">
                     </iframe>
                 </div>
             </div>
         </div>
-        
+
         <!-- Copyright + Social -->
         <div class="footer-bottom">
-            <p>&copy; 2024 <strong>GaragePro</strong>. All rights reserved.</p>
-            <div class="social-icons">
+            <p>&copy; <?php echo date('Y'); ?> <strong>Grand Auto Tech</strong>. All rights reserved. Developed by <a
+                    href="https://www.vampiordesigns.com" target="_blank" rel="noopener noreferrer"><strong>Vampior
+                        Designs</strong></a>.</p>
+
+            {{-- <div class="social-icons">
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                 <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-twitter"></i></a>
-            </div>
+
+                <a href="https://wa.me/your-number" target="_blank" rel="noopener noreferrer"><i
+                        class="fab fa-whatsapp"></i></a>
+            </div> --}}
+
         </div>
     </footer>
       <!--Site Footer End-->
     </div>
     <!-- /.page-wrapper -->
 
-    <div class="mobile-nav__wrapper">
-      <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-      <!-- /.mobile-nav__overlay -->
-      <div class="mobile-nav__content">
-        <span class="mobile-nav__close mobile-nav__toggler"
-          ><i class="fa fa-times"></i
-        ></span>
+   <div class="mobile-nav__wrapper">
+        <div class="mobile-nav__overlay mobile-nav__toggler"></div>
+        <!-- /.mobile-nav__overlay -->
+        <div class="mobile-nav__content">
+            <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
-        <div class="logo-box">
-          <a href="index.html" aria-label="logo image"
-            ><img src="assets/images/resources/logo-1.png" width="135" alt=""
-          /></a>
-        </div>
-        <!-- /.logo-box -->
-        <div class="mobile-nav__container"></div>
-        <!-- /.mobile-nav__container -->
+            <div class="logo-box">
+                {{-- <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-1.png"
+                        width="135" alt="" /></a> --}}
+                        <p>
+                                            <span class="white-text">GRAND AUTO</span>
+                                            <span class="red-text">TECH</span>
+                                        </p>
 
-        <ul class="mobile-nav__contact list-unstyled">
-          <li>
-            <i class="fa fa-envelope"></i>
-            <a href="mailto:needhelp@packageName__.com">needhelp@crank.com</a>
-          </li>
-          <li>
-            <i class="fas fa-phone"></i>
-            <a href="tel:666-888-0000">666 888 0000</a>
-          </li>
-        </ul>
-        <!-- /.mobile-nav__contact -->
-        <div class="mobile-nav__top">
-          <div class="mobile-nav__social">
-            <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-facebook-square"></a>
-            <a href="#" class="fab fa-pinterest-p"></a>
-            <a href="#" class="fab fa-instagram"></a>
-          </div>
-          <!-- /.mobile-nav__social -->
+            </div>
+            <!-- /.logo-box -->
+            <div class="mobile-nav__container"></div>
+            <!-- /.mobile-nav__container -->
+
+            <ul class="mobile-nav__contact list-unstyled">
+                <li>
+                    <i class="fa fa-envelope"></i>
+                    <a href="mailto:Info@grandautotech.lk">Info@grandautotech.lk</a>
+                </li>
+                <li>
+                    <i class="fas fa-phone"></i>
+                    <a href="tel:0712124500">071 212 4500</a>
+                </li>
+            </ul>
+            <!-- /.mobile-nav__contact -->
+            <div class="mobile-nav__top">
+                {{-- <div class="mobile-nav__social">
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-facebook-square"></a>
+                    <a href="#" class="fab fa-pinterest-p"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                </div> --}}
+                <!-- /.mobile-nav__social -->
+            </div>
+            <!-- /.mobile-nav__top -->
         </div>
-        <!-- /.mobile-nav__top -->
-      </div>
-      <!-- /.mobile-nav__content -->
+        <!-- /.mobile-nav__content -->
     </div>
     <!-- /.mobile-nav__wrapper -->
 

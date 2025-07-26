@@ -442,8 +442,9 @@
 .about-three {
     position: relative;
     display: block;
-    padding: 120px 0 120px;
+    padding: 80px 0 40px;
     z-index: 1;
+    background-color: white;
 }
 
 .about-three__left {
@@ -471,7 +472,7 @@
 }
 
 .about-three__text {
-    margin-bottom: 43px;
+    margin-bottom: 30px;
 }
 
 .about-three__btn-box {

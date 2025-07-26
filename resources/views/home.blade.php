@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Shared on THEMELOCK.COM - Home Three || Crank || Crank HTML 5 Template</title>
+    <title>Grand Auto Tech</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Crank HTML 5 Template " />
+    <meta name="description" content="Grand Auto Tech " />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -65,10 +65,14 @@
     <div class="preloader">
         <div class="preloader__image"></div>
     </div>
+
+    <a href="https://wa.me/94712124500" class="whatsapp-icon" target="_blank" aria-label="Chat on WhatsApp">
+    <i class="fab fa-whatsapp"></i>
+  </a>
     <!-- /.preloader -->
 
     <!-- Start sidebar widget content -->
-    <div class="xs-sidebar-group info-group info-sidebar">
+    {{-- <div class="xs-sidebar-group info-group info-sidebar">
         <div class="xs-overlay xs-bg-black"></div>
         <div class="xs-sidebar-widget">
             <div class="sidebar-widget-container">
@@ -116,7 +120,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- End sidebar widget content -->
 
     <div class="page-wrapper">
@@ -124,14 +128,14 @@
             <div class="main-header-three__wrapper">
                 <div class="main-menu-three__top">
                     <div class="container">
-                        <div class="main-menu-three__top-inner">
+                        {{-- <div class="main-menu-three__top-inner">
                             <ul class="list-unstyled main-menu-three__contact-list">
                                 <li>
                                     <div class="icon">
                                         <i class="icon-pin"></i>
                                     </div>
                                     <div class="text">
-                                        <p>1901 Thornridge Cir.Hawaii 81063</p>
+                                        <p>No 1/B/2, Horana Road, Kahathuduwa, Polgasowita </p>
                                     </div>
                                 </li>
                                 <li>
@@ -151,7 +155,7 @@
                                     <a href="#"><i class="icon-linkedin-in-two"></i></a>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
                 <nav class="main-menu main-menu-three">
@@ -160,8 +164,14 @@
                             <div class="main-menu-three__wrapper-inner">
                                 <div class="main-menu-three__left">
                                     <div class="main-header-three__logo">
-                                        <a href="index.html"><img src="assets/images/resources/logo-2.png"
-                                                alt="" /></a>
+                                        {{-- <a href="index.html"><img src="assets/images/resources/logo-2.png"
+                                                alt="" /></a> --}}
+                                        <p>
+                                            <span class="black-text">GRAND AUTO</span>
+                                            <span class="red-text">TECH</span>
+                                        </p>
+
+
                                     </div>
                                 </div>
                                 <div class="main-menu-three__right">
@@ -175,98 +185,44 @@
                                             <li>
                                                 <a href="#about">About Us</a>
                                             </li>
-                                            <li class="dropdown">
-                                                <a href="#">Pages</a>
-                                                <ul>
-                                                    <li><a href="team.html">Team</a></li>
-                                                    <li>
-                                                        <a href="team-carousel.html">Team Carousel</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="team-details.html">Team Details</a>
-                                                    </li>
-                                                    <li><a href="project.html">Projects</a></li>
-                                                    <li>
-                                                        <a href="project-details.html">Project Details</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="testimonials.html">Testimonials</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="testimonial-carousel.html">Testimonial Carousel</a>
-                                                    </li>
-                                                    <li><a href="pricing.html">Pricing</a></li>
-                                                    <li>
-                                                        <a href="pricing-carousel.html">Pricing Carousel</a>
-                                                    </li>
-                                                    <li><a href="faq.html">Faq</a></li>
-                                                    <li><a href="404.html">404 Error</a></li>
-                                                </ul>
+                                            <li>
+                                                <a href="#services">Services</a>
                                             </li>
-                                            <li class="dropdown">
-                                                <a href="#">Services</a>
-                                                <ul>
-                                                    <li><a href="services.html">Services</a></li>
-                                                    <li>
-                                                        <a href="easy-drive-maintenance.html">Easy Drive
-                                                            Maintenance</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="elite-auto-services.html">Elite Auto Services</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="smooth-ride-vehicle-care.html">Smooth Ride Vehicle
-                                                            Care</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="careful-car-service-station.html">Careful Car Service
-                                                            Station</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="auto-pro-mechanic-shop.html">Auto Pro Mechanic
-                                                            Shop</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="dropdown">
-                                                <a href="#">Shop</a>
-                                                <ul>
-                                                    <li><a href="products.html">Products</a></li>
-                                                    <li>
-                                                        <a href="product-details.html">Product Details</a>
-                                                    </li>
-                                                    <li><a href="cart.html">Cart</a></li>
-                                                    <li><a href="checkout.html">Checkout</a></li>
-                                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                                    <li><a href="sign-up.html">Sign Up</a></li>
-                                                    <li><a href="login.html">Login</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="dropdown">
-                                                <a href="#">Blog</a>
-                                                <ul>
-                                                    <li><a href="blog.html">Blog</a></li>
-                                                    <li>
-                                                        <a href="blog-carousel.html">Blog Carousel</a>
-                                                    </li>
-                                                    <li><a href="blog-list.html">Blog List</a></li>
-                                                    <li>
-                                                        <a href="blog-details.html">Blog Details</a>
-                                                    </li>
-                                                </ul>
+
+                                            <li>
+                                                <a href="#features">Features</a>
                                             </li>
                                             <li>
-                                                <a href="contact.html">Contact</a>
+                                                <a href="#testimonials">Testimonials</a>
                                             </li>
+
+                                            <li>
+                                                <a href="/contact">Contact Us</a>
+                                            </li>
+
+
+
                                         </ul>
                                     </div>
                                     <div class="main-menu__nav-sidebar-icon">
-                                        <a class="navSidebar-button" href="#">
-                                            <span class="icon-dots-menu-one"></span>
-                                            <span class="icon-dots-menu-two"></span>
-                                            <span class="icon-dots-menu-three"></span>
+                                        <a href="tel:0112705013">
+                                            <button
+                                                style="padding: 8px 16px; background-color: black; color: white; border: none; border-radius: 4px; cursor: pointer; display: flex; align-items: center; gap: 8px;"
+                                                onmouseover="this.style.backgroundColor='#333';"
+                                                onmouseout="this.style.backgroundColor='black';">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                                    <path
+                                                        d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                                    </path>
+                                                </svg>
+                                                Hotline
+                                            </button>
                                         </a>
+
                                     </div>
+
                                 </div>
                             </div>
                         </div>
@@ -301,13 +257,13 @@
                                     From diagnostics to full repairs, Grand Auto Tech delivers <br /> expert care with
                                     fair
                                     pricing, cutting
-                                    edge systems, and a team that treats
-                                    <br />
+                                    edge systems, and a team that <br /> treats
+
                                     every vehicle like their own.
                                 </p>
                                 <div class="main-slider__btn-and-video-box">
                                     <div class="main-slider__btn-box">
-                                        <a href="contact.html" class="thm-btn">Get Started<span
+                                        <a href="/contact" class="thm-btn">Contact Us<span
                                                 class="icon-arrow-up-right"></span></a>
                                     </div>
                                     {{-- <div class="main-slider__video-link">
@@ -407,97 +363,7 @@
         </section>
         <!--Main Slider Three End -->
 
-        <!--Services Three Start -->
-        <section class="services-three">
-            <div class="container">
-                <div class="section-title-two text-center sec-title-animation animation-style1">
-                    <div class="section-title-two__tagline-box justify-content-center">
-                        <div class="section-title-two__tagline-shape-1"></div>
-                        <span class="section-title-two__tagline">Latest Service</span>
-                        <div class="section-title-two__tagline-shape-1"></div>
-                    </div>
-                    <h2 class="section-title-two__title title-animation">
-                        Your Trusted Car Provider <br />
-                        Keeping Your Vehicle
-                    </h2>
-                </div>
-                <div class="row">
-                    <!--Services Three Single Start -->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="100ms">
-                        <div class="services-three__single">
-                            <div class="services-three__icon">
-                                <span class="icon-broken-car"></span>
-                            </div>
-                            <h3 class="services-three__title">
-                                <a href="auto-pro-mechanic-shop.html">Sparkplug <br />
-                                    Center</a>
-                            </h3>
-                            <div class="services-three__read-more">
-                                <a href="auto-pro-mechanic-shop.html">Get Started <span
-                                        class="icon-arrow-up-right"></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Services Three Single End -->
-                    <!--Services Three Single Start -->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="200ms">
-                        <div class="services-three__single">
-                            <div class="services-three__icon">
-                                <span class="icon-wheel-2"></span>
-                            </div>
-                            <h3 class="services-three__title">
-                                <a href="easy-drive-maintenance.html">Masters <br />
-                                    Motor</a>
-                            </h3>
-                            <div class="services-three__read-more">
-                                <a href="easy-drive-maintenance.html">Get Started <span
-                                        class="icon-arrow-up-right"></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Services Three Single End -->
-                    <!--Services Three Single Start -->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="300ms">
-                        <div class="services-three__single">
-                            <div class="services-three__icon">
-                                <span class="icon-engineer"></span>
-                            </div>
-                            <h3 class="services-three__title">
-                                <a href="smooth-ride-vehicle-care.html">Engine <br />
-                                    Smiling</a>
-                            </h3>
-                            <div class="services-three__read-more">
-                                <a href="smooth-ride-vehicle-care.html">Get Started <span
-                                        class="icon-arrow-up-right"></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Services Three Single End -->
-                    <!--Services Three Single Start -->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="400ms">
-                        <div class="services-three__single">
-                            <div class="services-three__icon">
-                                <span class="icon-pressure"></span>
-                            </div>
-                            <h3 class="services-three__title">
-                                <a href="elite-auto-services.html">Gearbox <br />
-                                    Gurus</a>
-                            </h3>
-                            <div class="services-three__read-more">
-                                <a href="elite-auto-services.html">Get Started <span
-                                        class="icon-arrow-up-right"></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Services Three Single End -->
-                </div>
-            </div>
-        </section>
-        <!--Services Three End -->
+
 
         <!--Brand Two Start -->
         {{-- <section class="brand-two brand-three">
@@ -579,33 +445,210 @@
                                 </h2>
                             </div>
                             <p class="about-three__text">
-                                Stablished in 1998 by Raja Pushpakumara Walpola, our garage has proudly served the
-                                community of Kahathuduwa, Polgasowita for over two decades. Built on a foundation of
-                                trust,
-                                expertise, and a passion for automobiles, we’ve become a go-to destination for reliable
-                                vehicle
-                                repair, maintenance, and diagnostics.<br /> <br />
-                                With years of hands-on experience, Raja and his skilled team offer high-quality service
-                                using
-                                modern tools and techniques ensuring your vehicle is treated with care and precision.
-                                Whether
-                                it's a routine check-up, engine repair, or full service, we’re committed to keeping you
-                                safely on
-                                the road. <br /> <br />
-                                At our garage, customer satisfaction is at the heart of everything we do. We believe in
-                                honest
-                                advice, fair pricing, and building long-term relationships with every client who walks
-                                through
-                                our doors.
+                                Established in 1998 by Raja Pushpakumara Walpola, our garage has proudly served
+                                Kahathuduwa, Polgasowita for over 20 years. Built on trust, skill, and a passion for
+                                cars, we’re your go-to spot for reliable repairs, maintenance, and diagnostics.
+                                </br></br>
+
+                                With modern tools and hands-on expertise, Raja and his team ensure every vehicle gets
+                                precise, high-quality care. From routine checks to engine repairs, your safety is our
+                                priority.</br></br>
+
+                                Customer satisfaction drives us—we offer honest advice, fair pricing, and lasting
+                                relationships with every client.
                             </p>
-                            
-                          
+
+
                         </div>
                     </div>
                 </div>
             </div>
         </section>
         <!--About Three End -->
+
+        <!--Services Three Start -->
+        <section class="services-three" id="services">
+            <div class="container">
+                <div class="section-title-two text-center sec-title-animation animation-style1">
+                    <div class="section-title-two__tagline-box justify-content-center">
+                        <div class="section-title-two__tagline-shape-1"></div>
+                        <span class="section-title-two__tagline">Latest Service</span>
+                        <div class="section-title-two__tagline-shape-1"></div>
+                    </div>
+                    <h2 class="section-title-two__title title-animation">
+                        Reliable Repairs. Modern Tools. <br />Service You Can Trust.
+
+                    </h2>
+                </div>
+                <div class="services-container">
+
+                    <div class="services-scroll-container">
+                        <div class="services-track auto-scroll">
+                            <!-- Card 1 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-tire"></i>
+                                </div>
+                                <h3 class="service-title">Tyres and Alloy Wheel Changing</h3>
+                                <p class="service-desc">Professional tyre and alloy wheel replacement services with
+                                    precision balancing.</p>
+                            </div>
+
+                            <!-- Card 2 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-lightbulb"></i>
+                                </div>
+                                <h3 class="service-title">Head Light Aligning</h3>
+                                <p class="service-desc">Proper headlight alignment for optimal visibility and safety on
+                                    the road.</p>
+                            </div>
+
+                            <!-- Card 3 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-car-side"></i>
+                                </div>
+                                <h3 class="service-title">Glass Tint</h3>
+                                <p class="service-desc">High-quality window tinting for privacy, UV protection, and
+                                    style.</p>
+                            </div>
+
+                            <!-- Card 4 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-tools"></i>
+                                </div>
+                                <h3 class="service-title">Day to Day Repairs</h3>
+                                <p class="service-desc">Comprehensive repair services for all your vehicle's
+                                    maintenance needs.</p>
+                            </div>
+
+                            <!-- Card 5 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-chart-line"></i>
+                                </div>
+                                <h3 class="service-title">Computerized Shock Absorber Testing</h3>
+                                <p class="service-desc">Advanced testing to ensure your suspension system is in perfect
+                                    condition.</p>
+                            </div>
+
+                            <!-- Card 6 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-oil-can"></i>
+                                </div>
+                                <h3 class="service-title">Vehicle Servicing</h3>
+                                <p class="service-desc">Complete vehicle servicing to keep your car running smoothly
+                                    and efficiently.</p>
+                            </div>
+
+                            <!-- Card 7 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-cogs"></i>
+                                </div>
+                                <h3 class="service-title">Computerized Engine Tuning</h3>
+                                <p class="service-desc">Precision engine tuning for optimal performance and fuel
+                                    efficiency.</p>
+                            </div>
+
+                              <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-truck-moving"></i>
+                                </div>
+                                <h3 class="service-title">Highway Breakdown Vehicle Bring Services</h3>
+                                <p class="service-desc">Fast and reliable vehicle pickup service during highway
+                                    breakdowns, available 24/7.</p>
+                            </div>
+
+                            <!-- Duplicate cards for infinite scroll effect -->
+                            <!-- Card 1 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-tire"></i>
+                                </div>
+                                <h3 class="service-title">Tyres and Alloy Wheel Changing</h3>
+                                <p class="service-desc">Professional tyre and alloy wheel replacement services with
+                                    precision balancing.</p>
+                            </div>
+
+                            <!-- Card 2 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-lightbulb"></i>
+                                </div>
+                                <h3 class="service-title">Head Light Aligning</h3>
+                                <p class="service-desc">Proper headlight alignment for optimal visibility and safety on
+                                    the road.</p>
+                            </div>
+
+                            <!-- Card 3 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-car-side"></i>
+                                </div>
+                                <h3 class="service-title">Glass Tint</h3>
+                                <p class="service-desc">High-quality window tinting for privacy, UV protection, and
+                                    style.</p>
+                            </div>
+
+                            <!-- Card 4 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-tools"></i>
+                                </div>
+                                <h3 class="service-title">Day to Day Repairs</h3>
+                                <p class="service-desc">Comprehensive repair services for all your vehicle's
+                                    maintenance needs.</p>
+                            </div>
+
+                            <!-- Card 5 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-chart-line"></i>
+                                </div>
+                                <h3 class="service-title">Computerized Shock Absorber Testing</h3>
+                                <p class="service-desc">Advanced testing to ensure your suspension system is in perfect
+                                    condition.</p>
+                            </div>
+
+                            <!-- Card 6 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-oil-can"></i>
+                                </div>
+                                <h3 class="service-title">Vehicle Servicing</h3>
+                                <p class="service-desc">Complete vehicle servicing to keep your car running smoothly
+                                    and efficiently.</p>
+                            </div>
+
+                            <!-- Card 7 -->
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-cogs"></i>
+                                </div>
+                                <h3 class="service-title">Computerized Engine Tuning</h3>
+                                <p class="service-desc">Precision engine tuning for optimal performance and fuel
+                                    efficiency.</p>
+                            </div>
+
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-truck-moving"></i>
+                                </div>
+                                <h3 class="service-title">Highway Breakdown Vehicle Bring Services</h3>
+                                <p class="service-desc">Fast and reliable vehicle pickup service during highway
+                                    breakdowns, available 24/7.</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Services Three End -->
 
         <!--Team Three Start -->
         {{-- <section class="team-three">
@@ -871,153 +914,7 @@
         </section> --}}
         <!--Gallery Three End -->
 
-        <!--Testimonial Three Start -->
-        <section class="testimonial-three">
-            <div class="testimonial-three__inner">
-                <div class="container">
-                    <div class="section-title-two text-left sec-title-animation animation-style2">
-                        <div class="section-title-two__tagline-box">
-                            <span class="section-title-two__tagline">TESTIMONIAL</span>
-                            <div class="section-title-two__tagline-shape-1"></div>
-                        </div>
-                        <h2 class="section-title-two__title title-animation">
-                            Clients Testimonial
-                        </h2>
-                    </div>
-                    <div class="testimonial-three__carousel owl-theme owl-carousel">
-                        <!--Testimonial Three Single Start -->
-                        <div class="item">
-                            <div class="testimonial-three__single">
-                                <div class="testimonial-three__quote-and-ratting">
-                                    <div class="testimonial-three__quote">
-                                        <span class="fal fa-quote-right"></span>
-                                    </div>
-                                    <div class="testimonial-three__ratting">
-                                        <span class="icon-star"></span>
-                                        <span class="icon-star"></span>
-                                        <span class="icon-star"></span>
-                                        <span class="icon-star"></span>
-                                        <span class="last-icon icon-star"></span>
-                                    </div>
-                                </div>
-                                <p class="testimonial-three__text">
-                                    Car service the maintaining and a the performance longevity
-                                    of the vehicle a From oil is a and tire are rotations Car
-                                    service
-                                </p>
-                                <div class="testimonial-three__client-box">
-                                    <div class="testimonial-three__client-img">
-                                        <img src="assets/images/testimonial/testimonial-3-1.jpg" alt="" />
-                                    </div>
-                                    <div class="testimonial-three__client-content">
-                                        <h4><a href="testimonials.html">Arlene McCoy</a></h4>
-                                        <p>Nursing Assistant</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Testimonial Three Single End -->
-                        <!--Testimonial Three Single Start -->
-                        <div class="item">
-                            <div class="testimonial-three__single">
-                                <div class="testimonial-three__quote-and-ratting">
-                                    <div class="testimonial-three__quote">
-                                        <span class="fal fa-quote-right"></span>
-                                    </div>
-                                    <div class="testimonial-three__ratting">
-                                        <span class="icon-star"></span>
-                                        <span class="icon-star"></span>
-                                        <span class="icon-star"></span>
-                                        <span class="icon-star"></span>
-                                        <span class="last-icon icon-star"></span>
-                                    </div>
-                                </div>
-                                <p class="testimonial-three__text">
-                                    Car service the maintaining and a the performance longevity
-                                    of the vehicle a From oil is a and tire are rotations Car
-                                    service
-                                </p>
-                                <div class="testimonial-three__client-box">
-                                    <div class="testimonial-three__client-img">
-                                        <img src="assets/images/testimonial/testimonial-3-2.jpg" alt="" />
-                                    </div>
-                                    <div class="testimonial-three__client-content">
-                                        <h4><a href="testimonials.html">Susan Pual</a></h4>
-                                        <p>Nursing Assistant</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Testimonial Three Single End -->
-                        <!--Testimonial Three Single Start -->
-                        <div class="item">
-                            <div class="testimonial-three__single">
-                                <div class="testimonial-three__quote-and-ratting">
-                                    <div class="testimonial-three__quote">
-                                        <span class="fal fa-quote-right"></span>
-                                    </div>
-                                    <div class="testimonial-three__ratting">
-                                        <span class="icon-star"></span>
-                                        <span class="icon-star"></span>
-                                        <span class="icon-star"></span>
-                                        <span class="icon-star"></span>
-                                        <span class="last-icon icon-star"></span>
-                                    </div>
-                                </div>
-                                <p class="testimonial-three__text">
-                                    Car service the maintaining and a the performance longevity
-                                    of the vehicle a From oil is a and tire are rotations Car
-                                    service
-                                </p>
-                                <div class="testimonial-three__client-box">
-                                    <div class="testimonial-three__client-img">
-                                        <img src="assets/images/testimonial/testimonial-3-3.jpg" alt="" />
-                                    </div>
-                                    <div class="testimonial-three__client-content">
-                                        <h4><a href="testimonials.html">Robert Spin</a></h4>
-                                        <p>Nursing Assistant</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Testimonial Three Single End -->
-                        <!--Testimonial Three Single Start -->
-                        <div class="item">
-                            <div class="testimonial-three__single">
-                                <div class="testimonial-three__quote-and-ratting">
-                                    <div class="testimonial-three__quote">
-                                        <span class="fal fa-quote-right"></span>
-                                    </div>
-                                    <div class="testimonial-three__ratting">
-                                        <span class="icon-star"></span>
-                                        <span class="icon-star"></span>
-                                        <span class="icon-star"></span>
-                                        <span class="icon-star"></span>
-                                        <span class="last-icon icon-star"></span>
-                                    </div>
-                                </div>
-                                <p class="testimonial-three__text">
-                                    Car service the maintaining and a the performance longevity
-                                    of the vehicle a From oil is a and tire are rotations Car
-                                    service
-                                </p>
-                                <div class="testimonial-three__client-box">
-                                    <div class="testimonial-three__client-img">
-                                        <img src="assets/images/testimonial/testimonial-3-1.jpg" alt="" />
-                                    </div>
-                                    <div class="testimonial-three__client-content">
-                                        <h4><a href="testimonials.html">Adam Smith</a></h4>
-                                        <p>Nursing Assistant</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Testimonial Three Single End -->
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Testimonial Three End -->
+
 
         <!--Sliding Text Start-->
         <section class="sliding-text">
@@ -1074,7 +971,7 @@
                         <p>Vehicle Servicing </p>
                     </li>
 
-                     <li>
+                    <li>
                         <div class="icon">
                             <span class="icon-chassis"></span>
                         </div>
@@ -1082,56 +979,206 @@
                     <li>
                         <p>Computerized Engine Tuning </p>
                     </li>
-                    
+
                 </ul>
             </div>
         </section>
         <!--Sliding Text End-->
 
         <!--Why Choose One Start-->
-       <section class="why-choose-one">
-    <div class="container">
-        <h2 class="section-title">Why Choose Grand Auto Tech?</h2>
-        <div class="cards-container">
-            <!-- Card 1 -->
-            <div class="feature-card">
-                <div class="card-icon">
-                    <img src="/assets/images/icon/experience.png" alt="Experience icon">
+        <section class="why-choose-one" id="features">
+            <div class="container">
+                <h2 class="section-title">Why Choose Grand Auto Tech?</h2>
+                <div class="cards-container">
+                    <!-- Card 1 -->
+                    <div class="feature-card">
+                        <div class="card-icon">
+                            <img src="/assets/images/icon/experience.png" alt="Experience icon">
+                        </div>
+                        <h3>Over 25 Years of Trusted Experience</h3>
+                        <p>Our decades of expertise ensure your vehicle gets the best care from seasoned professionals.
+                        </p>
+                    </div>
+
+                    <!-- Card 2 -->
+                    <div class="feature-card">
+                        <div class="card-icon">
+                            <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" alt="Tools icon">
+                        </div>
+                        <h3>Modern Tools & Digital Diagnostics</h3>
+                        <p>We use cutting-edge technology to accurately identify and fix issues with precision.</p>
+                    </div>
+
+                    <!-- Card 3 -->
+                    <div class="feature-card">
+                        <div class="card-icon">
+                            <img src="https://cdn-icons-png.flaticon.com/512/1077/1077063.png" alt="Service icon">
+                        </div>
+                        <h3>Personalized, Honest Customer Service</h3>
+                        <p>Transparent communication and tailored solutions for your specific automotive needs.</p>
+                    </div>
+
+                    <!-- Card 4 -->
+                    <div class="feature-card">
+                        <div class="card-icon">
+                            <img src="/assets/images/icon/technician.png" alt="Tool icon">
+                        </div>
+                        <h3>Skilled, Certified Technicians </h3>
+                        <p>Our technicians are trained, tested, and trusted to provide top-tier automotive care.</p>
+                    </div>
                 </div>
-                <h3>Over 25 Years of Trusted Experience</h3>
-                <p>Our decades of expertise ensure your vehicle gets the best care from seasoned professionals.</p>
             </div>
-            
-            <!-- Card 2 -->
-            <div class="feature-card">
-                <div class="card-icon">
-                    <img src="https://cdn-icons-png.flaticon.com/512/2933/2933245.png" alt="Tools icon">
-                </div>
-                <h3>Modern Tools & Digital Diagnostics</h3>
-                <p>We use cutting-edge technology to accurately identify and fix issues with precision.</p>
-            </div>
-            
-            <!-- Card 3 -->
-            <div class="feature-card">
-                <div class="card-icon">
-                    <img src="https://cdn-icons-png.flaticon.com/512/1077/1077063.png" alt="Service icon">
-                </div>
-                <h3>Personalized, Honest Customer Service</h3>
-                <p>Transparent communication and tailored solutions for your specific automotive needs.</p>
-            </div>
-            
-            <!-- Card 4 -->
-            <div class="feature-card">
-    <div class="card-icon">
-        <img src="/assets/images/icon/technician.png" alt="Tool icon">
-    </div>
-    <h3>Skilled, Certified Technicians </h3>
-    <p>Our technicians are trained, tested, and trusted to provide top-tier automotive care.</p>
-</div>
-        </div>
-    </div>
-</section>
+        </section>
         <!--Why Choose One End-->
+
+        <!--Testimonial Three Start -->
+        <section class="testimonial-three" id="testimonials">
+            <div class="testimonial-three__inner">
+                <div class="container">
+                    <div class="section-title-two text-left sec-title-animation animation-style2">
+                        <div class="section-title-two__tagline-box">
+                            <span class="section-title-two__tagline">TESTIMONIAL</span>
+                            <div class="section-title-two__tagline-shape-1"></div>
+                        </div>
+                        <h2 class="section-title-two__title title-animation">
+                            Clients Testimonial
+                        </h2>
+                    </div>
+                    <div class="testimonial-three__carousel owl-theme owl-carousel">
+                        <!--Testimonial Three Single Start -->
+                        <div class="item">
+                            <div class="testimonial-three__single">
+                                <div class="testimonial-three__quote-and-ratting">
+                                    <div class="testimonial-three__quote">
+                                        <span class="fal fa-quote-right"></span>
+                                    </div>
+                                    <div class="testimonial-three__ratting">
+                                        <span class="icon-star"></span>
+                                        <span class="icon-star"></span>
+                                        <span class="icon-star"></span>
+                                        <span class="icon-star"></span>
+
+
+                                    </div>
+                                </div>
+                                <p class="testimonial-three__text">
+                                    I’ve been bringing my car here for years. Raja and his team always deliver honest,
+                                    top-quality
+                                    work at a fair price. Highly recommended!
+                                </p>
+                                <div class="testimonial-three__client-box">
+                                    <div class="testimonial-three__client-img">
+                                        <img src="assets/images/testimonial/testmonial3.png" alt="" />
+                                    </div>
+                                    <div class="testimonial-three__client-content">
+                                        <h4><a href="testimonials.html"> Nimal Perera</a></h4>
+                                        <p>Kurunagala</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Testimonial Three Single End -->
+                        <!--Testimonial Three Single Start -->
+                        <div class="item">
+                            <div class="testimonial-three__single">
+                                <div class="testimonial-three__quote-and-ratting">
+                                    <div class="testimonial-three__quote">
+                                        <span class="fal fa-quote-right"></span>
+                                    </div>
+                                    <div class="testimonial-three__ratting">
+                                        <span class="icon-star"></span>
+                                        <span class="icon-star"></span>
+                                        <span class="icon-star"></span>
+                                        <span class="icon-star"></span>
+
+                                    </div>
+                                </div>
+                                <p class="testimonial-three__text">
+                                    "Best garage in Polgasowita! Friendly service, quick repairs, and they really know
+                                    what they’re
+                                    doing. I wouldn't go anywhere else.
+                                </p>
+                                <div class="testimonial-three__client-box">
+                                    <div class="testimonial-three__client-img">
+                                        <img src="assets/images/testimonial/testmonial6.png" alt="" />
+                                    </div>
+                                    <div class="testimonial-three__client-content">
+                                        <h4><a href="testimonials.html">Shanika Jayawardena </a></h4>
+                                        <p>Colombo</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Testimonial Three Single End -->
+                        <!--Testimonial Three Single Start -->
+                        <div class="item">
+                            <div class="testimonial-three__single">
+                                <div class="testimonial-three__quote-and-ratting">
+                                    <div class="testimonial-three__quote">
+                                        <span class="fal fa-quote-right"></span>
+                                    </div>
+                                    <div class="testimonial-three__ratting">
+                                        <span class="icon-star"></span>
+                                        <span class="icon-star"></span>
+                                        <span class="icon-star"></span>
+                                        <span class="icon-star"></span>
+                                        <span class="last-icon icon-star"></span>
+                                    </div>
+                                </div>
+                                <p class="testimonial-three__text">
+                                    My car had an engine issue that others couldn’t fix. Raja’s team found the problem
+                                    and had it
+                                    running smoothly in no time!
+                                </p>
+                                <div class="testimonial-three__client-box">
+                                    <div class="testimonial-three__client-img">
+                                        <img src="assets/images/testimonial/testmonial1.png" alt="" />
+                                    </div>
+                                    <div class="testimonial-three__client-content">
+                                        <h4><a href="testimonials.html">Kasun Silva </a></h4>
+                                        <p>Kandy</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Testimonial Three Single End -->
+                        <!--Testimonial Three Single Start -->
+                        <div class="item">
+                            <div class="testimonial-three__single">
+                                <div class="testimonial-three__quote-and-ratting">
+                                    <div class="testimonial-three__quote">
+                                        <span class="fal fa-quote-right"></span>
+                                    </div>
+                                    <div class="testimonial-three__ratting">
+                                        <span class="icon-star"></span>
+                                        <span class="icon-star"></span>
+                                        <span class="icon-star"></span>
+                                        <span class="icon-star"></span>
+
+                                    </div>
+                                </div>
+                                <p class="testimonial-three__text">
+                                    Excellent service with a personal touch. They treat you like family and make sure
+                                    your
+                                    vehicle gets the best care.
+                                </p>
+                                <div class="testimonial-three__client-box">
+                                    <div class="testimonial-three__client-img">
+                                        <img src="assets/images/testimonial/testmonial2.png" alt="" />
+                                    </div>
+                                    <div class="testimonial-three__client-content">
+                                        <h4><a href="testimonials.html">Thilina Madushanka </a></h4>
+                                        <p>Kurunagala</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Testimonial Three Single End -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Testimonial Three End -->
 
         <!--Contact Two Start-->
         <section class="contact-two">
@@ -1156,14 +1203,13 @@
                                 <ul class="contact-two__list list-unstyled">
                                     <li>
                                         <p>
-                                            2118 Thornridge Cir. Syracuse,<br />
-                                            Connecticut 35624
+                                            Grand Auto Tech (Pvt) Ltd
                                         </p>
                                     </li>
                                     <li>
                                         <p>
-                                            3891 Ranchview Dr. Richardson,<br />
-                                            California 62639
+                                            No 1/B/2, Horana Road,<br /> Kahathuduwa,<br />
+                                            Polgasowita.
                                         </p>
                                     </li>
                                 </ul>
@@ -1182,7 +1228,7 @@
                                         <p>Tuesday to Thusday-07 Am To 11Pm</p>
                                     </li>
                                     <li>
-                                        <p>FridayTo Saturday Closed</p>
+                                        <p><br /></p>
                                     </li>
                                 </ul>
                             </div>
@@ -1194,14 +1240,14 @@
                                 </h4>
                                 <ul class="contact-two__list list-unstyled">
                                     <li>
-                                        <p><a href="tel:6035550123">(603) 555-0123</a></p>
+                                        <p><a href="tel:0112705013  "> 011 270 5013 </a></p>
                                     </li>
                                     <li>
-                                        <p><a href="tel:7045550127">(704) 555-0127</a></p>
+                                        <p><a href="tel:0712124500">071 212 4500</a></p>
                                     </li>
                                     <li>
                                         <p>
-                                            <a href="mailto:bill.sanders@example.com">bill.sanders@example.com</a>
+                                            <a href="mailto:Info@grandautotech.lk">Info@grandautotech.lk</a>
                                         </p>
                                     </li>
                                 </ul>
@@ -1209,10 +1255,15 @@
                         </div>
                     </div>
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
-                        class="google-map__one" allowfullscreen></iframe>
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126737.14680440944!2d79.8993721!3d6.783948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f18!3m3!1m2!1s0x3ae24e5cba0cb053%3A0xa9f3f21a120f0f65!2sNo%3A%201%2FB%2F2%20Colombo%20-%20Horana%20Rd%2C%20Polgasowita%2C%20Sri%20Lanka!5e0!3m2!1sen!2slk!4v1721896542040!5m2!1sen!2slk"
+                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade" class="google-map__one">
+                    </iframe>
+
+
+
                     <div class="contact-two__btn-box">
-                        <a href="#" class="thm-btn">Contact Us<span class="icon-arrow-up-right"></span></a>
+                        <a href="/contact" class="thm-btn">Contact Us<span class="icon-arrow-up-right"></span></a>
                     </div>
                 </div>
             </div>
@@ -1227,7 +1278,8 @@
                         <div class="faq-three__left">
                             <div class="section-title-two text-left sec-title-animation animation-style2">
                                 <div class="section-title-two__tagline-box">
-                                    <span class="section-title-two__tagline">Ask Question</span>
+                                    <span class="section-title-two__tagline">Frequently Asked Questions
+                                    </span>
                                     <div class="section-title-two__tagline-shape-1"></div>
                                 </div>
                                 <h2 class="section-title-two__title title-animation">
@@ -1236,7 +1288,7 @@
                                 </h2>
                             </div>
                             <div class="faq-three__img">
-                                <img src="assets/images/resources/faq-three-img-1.jpg" alt="" />
+                                <img src="assets/images/resources/faq.png" alt="" />
                             </div>
                         </div>
                     </div>
@@ -1246,15 +1298,16 @@
                                 <div class="accrodion">
                                     <div class="accrodion-title">
                                         <h4>
-                                            Are scheduled service intervals important for my car?
+                                            What types of vehicles do you service?
                                         </h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                Car service is essential for Car service maintaining
-                                                performance and the longevity of vehicle. From oil
-                                                changes
+                                                We service a wide range of vehicles including cars, vans, SUVs, and
+                                                light commercial vehicles. If you’re unsure, feel free to call us with
+                                                your vehicle details.
+
                                             </p>
                                         </div>
                                         <!-- /.inner -->
@@ -1262,14 +1315,15 @@
                                 </div>
                                 <div class="accrodion active">
                                     <div class="accrodion-title">
-                                        <h4>How often should I get an oil change?</h4>
+                                        <h4>How long does a typical service take?</h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                Car service is essential for Car service maintaining
-                                                performance and the longevity of vehicle. From oil
-                                                changes
+                                                The duration depends on the service type. A basic service usually takes
+                                                a few hours, while more complex repairs may take longer. We’ll always
+                                                give you a time estimate upfront.
+
                                             </p>
                                         </div>
                                         <!-- /.inner -->
@@ -1278,15 +1332,16 @@
                                 <div class="accrodion">
                                     <div class="accrodion-title">
                                         <h4>
-                                            What are the signs that my brakes need to be serviced?
+                                            Do you provide spare parts?
                                         </h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                Car service is essential for Car service maintaining
-                                                performance and the longevity of vehicle. From oil
-                                                changes
+                                                Yes. We stock commonly needed spare parts and can source others through
+                                                trusted suppliers if not in stock. All parts go through an approval
+                                                process before installation.
+
                                             </p>
                                         </div>
                                         <!-- /.inner -->
@@ -1295,15 +1350,16 @@
                                 <div class="accrodion">
                                     <div class="accrodion-title">
                                         <h4>
-                                            What is included in a standard car maintenance package?
+                                            Is there a way to see my past service history?
                                         </h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
                                             <p>
-                                                Car service is essential for Car service maintaining
-                                                performance and the longevity of vehicle. From oil
-                                                changes
+                                                Yes, we maintain a digital history of all services done on your vehicle.
+                                                You can request this information at any time by providing your NIC or
+                                                vehicle number.
+
                                             </p>
                                         </div>
                                         <!-- /.inner -->
@@ -1315,10 +1371,14 @@
                 </div>
             </div>
         </section>
-        <!--FAQ Three End-->
 
-        <!--Blog Three Start-->
-        <section class="blog-three">
+
+
+    </div>
+    <!--FAQ Three End-->
+
+    <!--Blog Three Start-->
+    {{-- <section class="blog-three">
             <div class="container">
                 <div class="section-title-two text-center sec-title-animation animation-style1">
                     <div class="section-title-two__tagline-box justify-content-center">
@@ -1399,75 +1459,85 @@
                     <!--Blog Three Single End-->
                 </div>
             </div>
-        </section>
-        <!--Blog Three End-->
+        </section> --}}
+    <!--Blog Three End-->
 
-        <!--Site Footer Three Start-->
-        <footer class="modern-footer">
-            <div class="footer-content">
-                <!-- Logo + Contact -->
-                <div class="footer-logo">
-                    <h2>GRAND AUTO<span>TECH</span></h2>
-                    <p>Your trusted auto service center</p>
-                    <div class="contact-info">
-                        <p><i class="fas fa-phone"></i> <a href="tel:+11234567890">+1 (123) 456-7890</a></p>
-                        <p><i class="fas fa-envelope"></i> <a
-                                href="mailto:contact@garagepro.com">contact@garagepro.com</a></p>
-                        <p><i class="fas fa-map-marker-alt"></i> 123 Garage St, Detroit, MI</p>
-                    </div>
-                </div>
+    <!--Site Footer Three Start-->
+    <footer class="modern-footer">
+        <div class="footer-content">
+            <!-- Logo + Contact -->
+            <div class="footer-logo">
+                <h2>GRAND AUTO<span>TECH</span></h2>
+                <p>Your trusted auto service center</p>
+                <div class="contact-info">
+                    <p><i class="fas fa-phone"></i> <a href="tel:0112705013"> 011 270 5013</a> <a
+                            href="tel:0712124500"> 071 212 4500</a></p>
+                    <p><i class="fas fa-envelope"></i> <a
+                            href="mailto:Info@grandautotech.lk">Info@grandautotech.lk</a>
+                    </p>
+                    <a href="https://www.google.com/maps?q=No+1%2FB%2F2,+Horana+Road,+Kahathuduwa,+Polgasowita"
+                        target="_blank" style="text-decoration: none; color: inherit;">
+                        <p>
+                            <i class="fas fa-map-marker-alt"></i>
+                            No 1/B/2, Horana Road, Kahathuduwa,<br>Polgasowita.
+                        </p>
+                    </a>
 
-                <!-- Quick Links -->
-                <div class="footer-column">
-                    <h3>Quick Links</h3>
-                    <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Pricing</a></li>
-                    </ul>
-                </div>
-
-                <!-- Legal Links -->
-                <div class="footer-column">
-                    <h3>Useful Links</h3>
-                    <ul>
-                        <li><a href="/return-policy">Refund Policy</a></li>
-                        <li><a href="/privacy-policy">Privacy Policy</a></li>
-                        <li><a href="/terms-and-condition">Terms & Conditions</a></li>
-                        <li><a href="/contact">Contact Us</a></li>
-                    </ul>
-                </div>
-
-                <!-- Google Maps -->
-                <div class="footer-column">
-                    <h3>Find Us</h3>
-                    <div class="map-container">
-                        <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215209132713!2d-73.98784492426678!3d40.74844097138989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDQ0JzU0LjQiTiA3M8KwNTknMTkuNyJX!5e0!3m2!1sen!2sus!4v1620000000000!5m2!1sen!2sus"
-                            width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy">
-                        </iframe>
-                    </div>
                 </div>
             </div>
 
-            <!-- Copyright + Social -->
-            <div class="footer-bottom">
-                <p>&copy; <?php echo date('Y'); ?> <strong>Grand Auto Tech</strong>. All rights reserved. Developed by <a
-                        href="https://www.vampiordesigns.com" target="_blank"
-                        rel="noopener noreferrer"><strong>Vampior Designs</strong></a>.</p>
-
-                <div class="social-icons">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-
-                    <a href="https://wa.me/your-number" target="_blank" rel="noopener noreferrer"><i
-                            class="fab fa-whatsapp"></i></a>
-                </div>
-
+            <!-- Quick Links -->
+            <div class="footer-column">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Features
+                        </a></li>
+                </ul>
             </div>
-        </footer>
-        <!--Site Footer Three End-->
+
+            <!-- Legal Links -->
+            <div class="footer-column">
+                <h3>Useful Links</h3>
+                <ul>
+                    <li><a href="/return-policy">Refund Policy</a></li>
+                    <li><a href="/privacy-policy">Privacy Policy</a></li>
+                    <li><a href="/terms-and-condition">Terms & Conditions</a></li>
+                    <li><a href="/contact">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <!-- Google Maps -->
+            <div class="footer-column">
+                <h3>Find Us</h3>
+                <div class="map-container">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126737.14680440944!2d79.8993721!3d6.783948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae24e5cba0cb053%3A0xa9f3f21a120f0f65!2sNo%3A%201%2FB%2F2%20Colombo%20-%20Horana%20Rd%2C%20Polgasowita%2C%20Sri%20Lanka!5e0!3m2!1sen!2slk!4v1721896542040!5m2!1sen!2slk"
+                        width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+
+        <!-- Copyright + Social -->
+        <div class="footer-bottom">
+            <p>&copy; <?php echo date('Y'); ?> <strong>Grand Auto Tech</strong>. All rights reserved. Developed by <a
+                    href="https://www.vampiordesigns.com" target="_blank" rel="noopener noreferrer"><strong>Vampior
+                        Designs</strong></a>.</p>
+
+            {{-- <div class="social-icons">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+
+                <a href="https://wa.me/your-number" target="_blank" rel="noopener noreferrer"><i
+                        class="fab fa-whatsapp"></i></a>
+            </div> --}}
+
+        </div>
+    </footer>
+    <!--Site Footer Three End-->
     </div>
     <!-- /.page-wrapper -->
 
@@ -1478,8 +1548,13 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-1.png"
-                        width="135" alt="" /></a>
+                {{-- <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-1.png"
+                        width="135" alt="" /></a> --}}
+                <p>
+                    <span class="white-text">GRAND AUTO</span>
+                    <span class="red-text">TECH</span>
+                </p>
+
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -1488,21 +1563,21 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">needhelp@crank.com</a>
+                    <a href="mailto:Info@grandautotech.lk">Info@grandautotech.lk</a>
                 </li>
                 <li>
                     <i class="fas fa-phone"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
+                    <a href="tel:0712124500">071 212 4500</a>
                 </li>
             </ul>
             <!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
-                <div class="mobile-nav__social">
+                {{-- <div class="mobile-nav__social">
                     <a href="#" class="fab fa-twitter"></a>
                     <a href="#" class="fab fa-facebook-square"></a>
                     <a href="#" class="fab fa-pinterest-p"></a>
                     <a href="#" class="fab fa-instagram"></a>
-                </div>
+                </div> --}}
                 <!-- /.mobile-nav__social -->
             </div>
             <!-- /.mobile-nav__top -->
@@ -1557,6 +1632,8 @@
 
     <!-- template js -->
     <script src="assets/js/script.js"></script>
+    <script src="assets/js/header-nav.js"></script>
+    <script src="assets/js/header.js"></script>
 </body>
 
 </html>
