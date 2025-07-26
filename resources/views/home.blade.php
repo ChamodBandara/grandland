@@ -201,12 +201,19 @@
                                         </ul>
                                     </div>
                                     <div class="main-menu__nav-sidebar-icon">
-                                        <a href="/contact">
+                                        <a href="tel:0112705013">
                                             <button
-                                                style="padding: 8px 16px; background-color: black; color: white; border: none; border-radius: 4px; cursor: pointer;"
+                                                style="padding: 8px 16px; background-color: black; color: white; border: none; border-radius: 4px; cursor: pointer; display: flex; align-items: center; gap: 8px;"
                                                 onmouseover="this.style.backgroundColor='#333';"
                                                 onmouseout="this.style.backgroundColor='black';">
-                                                Need Help?
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+                                                    viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                                    <path
+                                                        d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                                    </path>
+                                                </svg>
+                                                Hotline
                                             </button>
                                         </a>
 
@@ -1224,11 +1231,11 @@
                             </div>
                         </div>
                     </div>
-                <iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126737.14680440944!2d79.8993721!3d6.783948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f18!3m3!1m2!1s0x3ae24e5cba0cb053%3A0xa9f3f21a120f0f65!2sNo%3A%201%2FB%2F2%20Colombo%20-%20Horana%20Rd%2C%20Polgasowita%2C%20Sri%20Lanka!5e0!3m2!1sen!2slk!4v1721896542040!5m2!1sen!2slk"
-    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade" class="google-map__one">
-</iframe>
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126737.14680440944!2d79.8993721!3d6.783948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f18!3m3!1m2!1s0x3ae24e5cba0cb053%3A0xa9f3f21a120f0f65!2sNo%3A%201%2FB%2F2%20Colombo%20-%20Horana%20Rd%2C%20Polgasowita%2C%20Sri%20Lanka!5e0!3m2!1sen!2slk!4v1721896542040!5m2!1sen!2slk"
+                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade" class="google-map__one">
+                    </iframe>
 
 
 
@@ -1520,10 +1527,10 @@
             <div class="logo-box">
                 {{-- <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-1.png"
                         width="135" alt="" /></a> --}}
-                        <p>
-                                            <span class="white-text">GRAND AUTO</span>
-                                            <span class="red-text">TECH</span>
-                                        </p>
+                <p>
+                    <span class="white-text">GRAND AUTO</span>
+                    <span class="red-text">TECH</span>
+                </p>
 
             </div>
             <!-- /.logo-box -->
