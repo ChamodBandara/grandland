@@ -550,6 +550,15 @@
                                     efficiency.</p>
                             </div>
 
+                              <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-truck-moving"></i>
+                                </div>
+                                <h3 class="service-title">Highway Breakdown Vehicle Bring Services</h3>
+                                <p class="service-desc">Fast and reliable vehicle pickup service during highway
+                                    breakdowns, available 24/7.</p>
+                            </div>
+
                             <!-- Duplicate cards for infinite scroll effect -->
                             <!-- Card 1 -->
                             <div class="service-card">
@@ -620,6 +629,16 @@
                                 <p class="service-desc">Precision engine tuning for optimal performance and fuel
                                     efficiency.</p>
                             </div>
+
+                            <div class="service-card">
+                                <div class="service-icon">
+                                    <i class="fas fa-truck-moving"></i>
+                                </div>
+                                <h3 class="service-title">Highway Breakdown Vehicle Bring Services</h3>
+                                <p class="service-desc">Fast and reliable vehicle pickup service during highway
+                                    breakdowns, available 24/7.</p>
+                            </div>
+
                         </div>
                     </div>
                 </div>
